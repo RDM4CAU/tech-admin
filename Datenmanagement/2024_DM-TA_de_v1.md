@@ -39,7 +39,7 @@ comment:  Einführung in das Datenmanagement für technisch-administratives Pers
 
 ## Ziele heute🎯
 
-<img src="../technisch-administrativ/images/bullseye-emoji.png" width="100" height="100" align=right alt="bullseye">
+<img src="../Datenmanagement/images/bullseye-emoji.png" width="100" height="100" align=right alt="bullseye">
 
 >**Wir möchten erreichen, dass Sie am Ende des Workshops ...**
 >
@@ -52,7 +52,7 @@ comment:  Einführung in das Datenmanagement für technisch-administratives Pers
 
 ## Limitationen🚧
 
-<img src="../technisch-administrativ/images/construction-emoji.png" width="100" height="100" align=right alt="construction sign">
+<img src="../Datenmanagement/images/construction-emoji.png" width="100" height="100" align=right alt="construction sign">
 
 >**Es gibt viel zu erzählen und zu diskutieren, dennoch:**
 >
@@ -66,7 +66,7 @@ comment:  Einführung in das Datenmanagement für technisch-administratives Pers
 
 ## Agenda💪
 
-<img src="../technisch-administrativ/images/strongarm-emoji.png" width="100" height="100" align=right alt="strong arm">
+<img src="../Datenmanagement/images/strongarm-emoji.png" width="100" height="100" align=right alt="strong arm">
 
 >**Unsere Agenda für heute**
 >
@@ -80,7 +80,7 @@ comment:  Einführung in das Datenmanagement für technisch-administratives Pers
 
 ## Warm up🤹
 
-<img src="../technisch-administrativ/images/juggle-emoji.png" width="100" height="100" align=right alt="juggle">
+<img src="../Datenmanagement/images/juggle-emoji.png" width="100" height="100" align=right alt="juggle">
 
 > **Lassen Sie uns zum Aufwärmen ein kleines Spiel spielen:**
 >
@@ -172,7 +172,7 @@ comment:  Einführung in das Datenmanagement für technisch-administratives Pers
   
 # Datenmanagement?
 
-<img src="../technisch-administrativ/images/zettelkasten-emoji.png" width="150" height="100" align=right alt="file folder">
+<img src="../Datenmanagement/images/zettelkasten-emoji.png" width="150" height="100" align=right alt="file folder">
 
 >**Was genau ist mit dem Begriff Datenmanagement gemeint? Welche Inhaltsaspekte gehören eigentlich dazu?**
 >
@@ -205,7 +205,7 @@ comment:  Einführung in das Datenmanagement für technisch-administratives Pers
 ********************************************************************************
 
 ## Begriffsdefinition Forschungsdaten
-<img src="../technisch-administrativ/images/scientist-emoji.png" width="150" height="100" align=right alt="file folder">
+<img src="../Datenmanagement/images/scientist-emoji.png" width="150" height="100" align=right alt="file folder">
 
 >An Hochschulen und Forschungseinrichtungen müssen wir "besondere" Daten managen: **Forschungsdaten**.
 >
@@ -234,7 +234,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ### Beispiele für Forschungsdaten
 
-<img src="../technisch-administrativ/images/forschungsdatenBSP.png" width="350" height="100" align=right alt="examples research data">
+<img src="../Datenmanagement/images/forschungsdatenBSP.png" width="350" height="100" align=right alt="examples research data">
 
 - Audio- und Videoaufzeichnungen
 - Tagebücher
@@ -256,7 +256,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 {{0-3}}
 ****************
-<img src="../technisch-administrativ/images/fingerup-emoji.png" width="100" height="100" align=right alt="finger up">
+<img src="../Datenmanagement/images/fingerup-emoji.png" width="100" height="100" align=right alt="finger up">
 
 >**Ein planvoller Umgang mit Forschungsdaten wird zunehmend von Förderorganisationen eingefordert.**
 >
@@ -288,7 +288,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 {{2-3}}
 ****************
 
-><img src="../technisch-administrativ/images/fingerup-emoji.png" width="100" height="100" align=right alt="finger up">
+><img src="../Datenmanagement/images/fingerup-emoji.png" width="100" height="100" align=right alt="finger up">
 >
 >- FDM-Vorgaben unterscheiden sich nicht nur hinsichtlich der jeweiligen Förderinstitution, sondern auch je nach Förderlinie bzw. Förderprogramm.
 >
@@ -299,7 +299,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 {{3}}
 ****************
 
-><img src="../technisch-administrativ/images/write-emoji.png" width="100" height="100" align=right alt="finger up">
+><img src="../Datenmanagement/images/write-emoji.png" width="100" height="100" align=right alt="finger up">
 >
 >- Unterstützung bei der Erstellung von DMPs bietet das Zentrale FDM der CAU: **info@fdm.uni-kiel.de**.
 >
@@ -313,7 +313,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 {{0-1}}
 ********************************************************************************
-<img src="../technisch-administrativ/images/fair2.jpg" width="50%" align=right alt="examples research data">
+<img src="../Datenmanagement/images/fair2.jpg" width="50%" align=right alt="examples research data">
 
 ><font size="5">**Die [FAIR-Prinzipien](https://www.nature.com/articles/sdata201618) dienen in Bezug auf das Management von Forschungsdaten als Leitprinzipien!**</font>
 <br>
@@ -414,7 +414,7 @@ In Bezug auf das Forschungsdatenmanagement relevante Policies der CAU:
 ><p style="color:#9a047f">**Es mag banal erscheinen, aber eine strukturierte Ordner- und Dateibenennung ist ein erster Schritt im Datenmanagement!**</p>
 </div>
 
-<center><img src="../technisch-administrativ/images/Comic_Dateibenennung_web.jpg" height="450" width="550"></center>
+<center><img src="../Datenmanagement/images/Comic_Dateibenennung_web.jpg" height="450" width="550"></center>
 
 <div style="text-align:center">
 <P><SMALL>Illustration: Cleo Michelsen</SMALL></P>
@@ -424,7 +424,7 @@ In Bezug auf das Forschungsdatenmanagement relevante Policies der CAU:
 
 {{1-2}}
 ********************************************************************************
-<img src="../technisch-administrativ/images/Dateibenennung_bad.png" alt="comic"  style="float:right"/>
+<img src="../Datenmanagement/images/Dateibenennung_bad.png" alt="comic"  style="float:right"/>
 
 * Haben Sie sich schon mal über sich selbst geärgert, weil Sie bestimmte Dateien nicht oder nur mit großem Aufwand finden konnten?
 
@@ -436,7 +436,7 @@ In Bezug auf das Forschungsdatenmanagement relevante Policies der CAU:
 
 {{2}}
 ********************************************************************************
-<img src="../technisch-administrativ/images/Comic_Datenverlust_web.jpg" alt="comic"  style="float:right"/>
+<img src="../Datenmanagement/images/Comic_Datenverlust_web.jpg" alt="comic"  style="float:right"/>
 
 Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 
@@ -492,7 +492,7 @@ Es gilt außerdem:
 ********************************************************************************
 Beispiel Ordnerstruktur:
 
-![Bild](../technisch-administrativ/images/Beispiele-Ordnerstruktur.png)<!-- width="350px" -->
+![Bild](../Datenmanagement/images/Beispiele-Ordnerstruktur.png)<!-- width="350px" -->
 
 ********************************************************************************
 
@@ -537,7 +537,7 @@ Folgende Punkte können bei der Erstellung (nachvollziehbarer) Dateinamen helfen
 ********************************************************************************
 Beispiele für Benennungskonventionen:
 
-![Bild](../technisch-administrativ/images/Abb_Beispiele-Benennungskonvention_2022_bp.png)
+![Bild](../Datenmanagement/images/Abb_Beispiele-Benennungskonvention_2022_bp.png)
 
 ********************************************************************************
 
@@ -762,7 +762,7 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 ### ~~Partnerarbeit~~: Dateiformate
 
->![Bild](../technisch-administrativ/images/FragezeichenTyp.jpg) <!-- width="150px" align="right" -->
+>![Bild](../Datenmanagement/images/FragezeichenTyp.jpg) <!-- width="150px" align="right" -->
 >
 >**Partnerarbeit**
 >
@@ -775,7 +775,7 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
-  <img src="../technisch-administrativ/images/rdmCAU.png" alt="rdm@CAU">
+  <img src="../Datenmanagement/images/rdmCAU.png" alt="rdm@CAU">
 </div>
 
 Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden des Rechenzentrums, der Universitätsbibliothek und der Verwaltung.
@@ -815,7 +815,7 @@ https://www.uni-kiel.de/gf-praesidium/de/recht/datenschutz-1
 
 ## Opendata@CAU 🔓
 
-![Bild](../technisch-administrativ/images/open-data-kiel.png)
+![Bild](../Datenmanagement/images/open-data-kiel.png)
 
 ## MACAU 📝
 
@@ -831,7 +831,7 @@ https://www.uni-kiel.de/gf-praesidium/de/recht/datenschutz-1
 ***
 Das Rechenzentrum stellt eine Citavi-Campuslizenz zur Verfügung:
 
-![Bild](../technisch-administrativ/images/citavi-RZ.jpg)
+![Bild](../Datenmanagement/images/citavi-RZ.jpg)
 
 https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
@@ -841,7 +841,7 @@ https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 ***
 An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
 
-![Bild](../technisch-administrativ/images/citavi-UB.jpg)
+![Bild](../Datenmanagement/images/citavi-UB.jpg)
 
 https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
@@ -864,7 +864,7 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 
 # Feedback
 
->![Bild](../technisch-administrativ/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
+>![Bild](../Datenmanagement/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 >
 >Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Datenmanagement teilgenommen haben und fragen: "Na, wie war's"?
 >
@@ -873,7 +873,7 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
 # Herzlichen Dank!
 Das Team FDM der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
-![Bild](../technisch-administrativ/images/heart-sparkling-emoji.png)
+![Bild](../Datenmanagement/images/heart-sparkling-emoji.png)
 
 # Informationen zu diesem Dokument
 
