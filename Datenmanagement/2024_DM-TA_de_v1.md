@@ -629,7 +629,7 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 
 >Die CAU bietet einen GitLab Dienst: https://cau-git.rz.uni-kiel.de/users/sign_in 
 
-# README
+## README
 
 >Ordnerstrukturen und Namenskonventionen sollten in einer **README-Datei** dokumentiert werden, die als einfache Textdatei (z. B.: .md, .txt) auf der ersten hierarchischen Ebene der gewählten Ordnerstruktur abgelegt werden sollte.  
 >
@@ -751,7 +751,7 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 >2. die zu benennenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
 >3. die ggf. zu verwendenden Abkürzungen.
 
-## Formate
+# Formate
 
 {{1}}
 ********************************************************************************
@@ -760,7 +760,7 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 ********************************************************************************
 
-### ~~Partnerarbeit~~: Dateiformate
+## ~~Partnerarbeit~~: Dateiformate
 
 >![Bild](../Datenmanagement/images/FragezeichenTyp.jpg) <!-- width="150px" align="right" -->
 >
