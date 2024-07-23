@@ -755,12 +755,7 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 # Formate
 
-{{1}}
-********************************************************************************
-
-**Warum ist es relevant, sich über genutzte Dateiformate Gedanken zu machen?**
-
-********************************************************************************
+> **Warum ist es relevant, sich über genutzte Dateiformate Gedanken zu machen?**
 
 ## ~~Partnerarbeit~~: Dateiformate
 
@@ -777,7 +772,13 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 ## Empfehlungen: Dateiformate
 
->![Formate](../Datenmanagement/images/formate.png) 
+Je nach konkretem Anwendungsfall ist individuell zu bewerten, für welchen Arbeitsschritt, welches Dateiformat zu nutzen ist. 
+
+Sobald Daten geteilt werden und/oder archiviert werden sollen, ist auf möglichst große Interoperabilität der Formate zu achten. 
+
+Die Tabelle bietet eine grobe Empfehlung:
+
+![Formate](../Datenmanagement/images/formate.png) 
 
 **Weiterführende Informationen finden Sie z. B. hier:**
 
