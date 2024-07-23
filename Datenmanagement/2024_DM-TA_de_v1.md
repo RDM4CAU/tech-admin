@@ -10,7 +10,9 @@ icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 licence: cc-by
 
-comment:  Einführung in das Datenmanagement für technisch-administratives Personal.
+title:  Einführung in das Datenmanagement für technisch-administratives Personal.
+
+comment:  Einführungsworkshop zum Datenmanagement für technisch-administratives Personal (2h).
 
 @style
 
@@ -773,6 +775,18 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 >* Welche Besonderheiten sind zu beachten?
 >* Welchen Problemen sind Sie im Zusammenhang mit Dateiformaten schon begegnet?
 
+## Empfehlungen: Dateiformate
+
+>![Formate](../Datenmanagement/images/formate.png) 
+
+**Weiterführende Informationen finden Sie z. B. hier:**
+
+- https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/ 
+
+- https://www.forschungsdaten-bildung.de/dateiformate 
+
+- https://kost-ceco.ch/cms/kad_main_de.html
+
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
   <img src="../Datenmanagement/images/rdmCAU.png" alt="rdm@CAU">
@@ -877,10 +891,10 @@ Das Team FDM der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
 # Informationen zu diesem Dokument
 
-| Parameter           | Kurzinformationen          |
-| :------------------ | :------------------------- |
-| Link zum Repository | https://github.com/RDM4CAU |
-| Titel               | @title                     |
-| Einsatz             | @comment                   |
+| Parameter           | Info                       |
+| --------            | :------                   |
+| Titel:              | @title                     |
+| Einsatz:            | @comment                   |
 | Autor:innen         | @author                    |
 | Lizenz              | @licence                   |
+| Link zum Repository:| https://github.com/RDM4CAU |      
