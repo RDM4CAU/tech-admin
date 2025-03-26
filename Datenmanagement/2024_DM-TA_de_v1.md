@@ -743,15 +743,16 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 ```
 </div>
 
-## ~~Einzelarbeit~~: Ordnerstruktur und Dateibenennungskonvention skizzieren
+## ~~Gruppenarbeit~~: Austausch zu Ordnerstrukturen und Dateibenennung
 
->**Einzelarbeit/Parnerarbeit**
+>**Gruppenarbeit**
 >
->Skizzieren Sie eine Ordnerstruktur für einen Arbeitsbereich und einen Vorschlag für eine Dateibenennungskonvention.
+>Tauschen Sie sich zum aktuellen Vorgehen bzgl. Ordnerstrukturen und Dateibennungen in ihren jeweiligen Tätigkeitsbereichen aus.
 >
->1. für welche Dateien Ihre Namenskonvention gilt,
->2. die zu benennenden, beschreibenden Namensaspekte und deren Reihenfolge sowie
->3. die ggf. zu verwendenden Abkürzungen.
+>- Existieren bereits Konventionen für Ordnerstrukturen und Dateibenennungen?
+>- Existieren Routinen, wie z. B. regelmäßiges Aufräumen/Sortieren oder Löschen?
+>- Welche positiven Erfahrung können Sie teilen, wie Ordnung und Übersichtlichkeit von Dateien im Arbeisalltag aufrecht erhalten werden kann?
+>- Welche negativen Erfahrung diesbezüglich können Sie teilen? 
 
 # Formate
 
