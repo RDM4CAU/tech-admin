@@ -858,7 +858,7 @@ An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Se
 
 ![Bild](../Datenmanagement/images/citavi-UB.jpg)
 
-https://www.ub.uni-kiel.de/de/beratung-kurse/Kurse/c3-12.html
+https://www.ub.uni-kiel.de/de/beratung-kurse/spezifische-angebote-fuer-lehrende-wissenschaftler-innen-und-promovierende
 
 ***
 
