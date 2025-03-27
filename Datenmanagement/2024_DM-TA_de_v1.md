@@ -66,6 +66,8 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >
 >* Zum Ende des Workshops nehmen wir daher gerne Ihre Wünsche für diesen und für weiterführende/vertiefende Workshopthemen auf.
 
+<div style="page-break-after: always;"></div>
+
 ## Agenda💪
 
 <img src="../Datenmanagement/images/strongarm-emoji.png" width="100" height="100" align=right alt="strong arm">
@@ -79,6 +81,8 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >- Daten ordnen und strukturieren
 >- Services und Policies an der CAU
 >- Diskussion und Ausklang
+
+<div style="page-break-after: always;"></div>
 
 ## Warm up🤹
 
@@ -164,6 +168,8 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 # Einstieg
 >***Wir würden gerne erfahren, mit welchen Daten und mit welchen Tools Sie hauptsächlich arbeiten und mit welchen Anliegen Sie in diesen Workshop gekommen sind.***
 
@@ -172,6 +178,8 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >* Daten und Tools, mit denen Sie beruflich umgehen.
 >* Anliegen, die Sie in diesen Workshop mitbringen.
   
+<div style="page-break-after: always;"></div>
+
 # Datenmanagement?
 
 <img src="../Datenmanagement/images/zettelkasten-emoji.png" width="150" height="100" align=right alt="file folder">
@@ -179,6 +187,8 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >**Was genau ist mit dem Begriff Datenmanagement gemeint? Welche Inhaltsaspekte gehören eigentlich dazu?**
 >
 > Was denken Sie? Welche Inhaltsaspekte gehören zum Datenmanagement?
+
+<div style="page-break-after: always;"></div>
 
 ## Begriffsdefinition Datenmanagement
 
@@ -205,6 +215,8 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >(https://www.iph-hannover.de/de/dienstleistungen/data-science/datenmanagement/#:~:text=Das%20Datenmanagement%20bezeichnet%20den%20gezielten,Nutzung%20von%20Daten%20erforderlich%20sind.)
 
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ## Begriffsdefinition Forschungsdaten
 <img src="../Datenmanagement/images/scientist-emoji.png" width="150" height="100" align=right alt="file folder">
@@ -234,6 +246,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ### Beispiele für Forschungsdaten
 
 <img src="../Datenmanagement/images/forschungsdatenBSP.png" width="350" height="100" align=right alt="examples research data">
@@ -253,6 +267,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 - Textkorpora und Annotationen
 - Topographie-Daten
 - Abschriften
+
+<div style="page-break-after: always;"></div>
 
 # Förderorganisationen
 
@@ -308,6 +324,8 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 >- **Ein Template für einen DMP sowie weitere unterstützende Materialien finden Sie ebenfalls auf den Seiten des [Zentralen Forschungsdatenmanagements](https://www.datamanagement.uni-kiel.de/de/service/materialien)**
 
 ****************
+
+<div style="page-break-after: always;"></div>
 
 # FAIR-Prinzipien
 
@@ -451,6 +469,8 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## Ordnerstrukturen
 
 Folgende Punkte können bei der Erstellung einer (nachvollziehbaren) Ordnerstruktur helfen:
@@ -498,6 +518,8 @@ Beispiel Ordnerstruktur:
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ## Dateibenennung
 
 Die Art und Weise der Benennung von Dateien ist ein wichtiger Baustein im Datenmanagement.
@@ -543,6 +565,8 @@ Beispiele für Benennungskonventionen:
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ### Softwaregestützte Dateibenennung
 Verschiedene Tools unterstützen das stapelweise Umbenennen von beliebig vielen Dateien und Ordnern in einem Durchgang:
 
@@ -566,6 +590,8 @@ Verschiedene Tools unterstützen das stapelweise Umbenennen von beliebig vielen 
 **Unix:**
 
 - rename command 
+
+<div style="page-break-after: always;"></div>
 
 ## Versionierung
 
@@ -620,6 +646,8 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 ### Softwaregestützte Versionierung
 
 Es gibt eine Reihe von nützlichen Tools, die ggf. helfen, insbesondere textbasierte Daten und Forschungsdatencode zu verfolgen und zu versionieren.
@@ -630,6 +658,8 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 * GitLab: https://about.gitlab.com
 
 >Die CAU bietet einen GitLab Dienst: https://cau-git.rz.uni-kiel.de/users/sign_in 
+
+<div style="page-break-after: always;"></div>
 
 ## README
 
@@ -743,6 +773,8 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 ```
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## ~~Gruppenarbeit~~: Austausch zu Ordnerstrukturen und Dateibenennung
 
 >**Gruppenarbeit**
@@ -753,6 +785,8 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 >- Existieren Routinen, wie z. B. regelmäßiges Aufräumen/Sortieren oder Löschen?
 >- Welche positiven Erfahrungen können Sie teilen, wie im Arbeitsalltag eine ordentliche und übersichtliche Struktur von Dateien effektiv beibehalten werden kann?
 >- Welche negativen Erfahrung diesbezüglich können Sie teilen? 
+
+<div style="page-break-after: always;"></div>
 
 # Organisation von Daten in Tabellen
 Eine gute Tabellenstruktur erleichtert nicht nur die Datennutzung, sondern auch die langfristige Verwaltung und Archivierung. 
@@ -833,6 +867,8 @@ Eine gute Tabellenstruktur erleichtert nicht nur die Datennutzung, sondern auch 
 
 ********
 
+<div style="page-break-after: always;"></div>
+
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
   <img src="../Datenmanagement/images/rdmCAU.png" alt="rdm@CAU">
@@ -867,23 +903,33 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
 Kontakte und Informationen zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/
 
+<div style="page-break-after: always;"></div>
+
 ## Datenschutz🦺
 
 <iframe src="https://www.uni-kiel.de/gf-praesidium/de/recht/datenschutz-1" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 https://www.uni-kiel.de/gf-praesidium/de/recht/datenschutz-1
 
+<div style="page-break-after: always;"></div>
+
 ## Opendata@CAU 🔓
 
 ![Bild](../Datenmanagement/images/open-data-kiel.png)
+
+<div style="page-break-after: always;"></div>
 
 ## MACAU 📝
 
 <iframe src="https://macau.uni-kiel.de/content/index.xml" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+<div style="page-break-after: always;"></div>
+
 ## IGSN Dienst 🍃
 
 <iframe src="https://igsn.uni-kiel.de/de" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<div style="page-break-after: always;"></div>
 
 ## Literaturverwaltung 📚
 
@@ -907,6 +953,8 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/spezifische-angebote-fuer-lehrende-
 
 ***
 
+<div style="page-break-after: always;"></div>
+
 # Fragen und Anmerkungen
 
 >Fast geschafft!
@@ -922,6 +970,8 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/spezifische-angebote-fuer-lehrende-
 
 ********************************************************************************
 
+<div style="page-break-after: always;"></div>
+
 # Feedback
 
 >![Bild](../Datenmanagement/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
@@ -930,10 +980,14 @@ https://www.ub.uni-kiel.de/de/beratung-kurse/spezifische-angebote-fuer-lehrende-
 >
 >Was antworten Sie?
 
+<div style="page-break-after: always;"></div>
+
 # Herzlichen Dank!
 Das Team FDM der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
 ![Bild](../Datenmanagement/images/heart-sparkling-emoji.png)
+
+<div style="page-break-after: always;"></div>
 
 # Informationen zu diesem Dokument
 
