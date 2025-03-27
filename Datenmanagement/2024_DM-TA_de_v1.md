@@ -426,6 +426,8 @@ In Bezug auf das Forschungsdatenmanagement relevante Policies der CAU:
 
 - [Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/Richtlinien-Sicherung-guter-wissenschaftlicher-Praxis.pdf)
 
+<div style="page-break-after: always;"></div>
+
 # Daten ordnen und strukturieren
 
 {{0-1}}
@@ -917,17 +919,23 @@ https://www.uni-kiel.de/gf-praesidium/de/recht/datenschutz-1
 
 ![Bild](../Datenmanagement/images/open-data-kiel.png)
 
+https://opendata.uni-kiel.de/content/index.xml
+
 <div style="page-break-after: always;"></div>
 
 ## MACAU 📝
 
 <iframe src="https://macau.uni-kiel.de/content/index.xml" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+https://macau.uni-kiel.de/content/index.xml
+
 <div style="page-break-after: always;"></div>
 
 ## IGSN Dienst 🍃
 
 <iframe src="https://igsn.uni-kiel.de/de" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+https://igsn.uni-kiel.de/de
 
 <div style="page-break-after: always;"></div>
 
