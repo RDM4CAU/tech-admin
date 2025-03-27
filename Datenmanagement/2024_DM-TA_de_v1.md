@@ -838,7 +838,7 @@ Eine gute Tabellenstruktur erleichtert nicht nur die Datennutzung, sondern auch 
   <img src="../Datenmanagement/images/rdmCAU.png" alt="rdm@CAU">
 </div>
 
-Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden des Rechenzentrums, der Universitätsbibliothek und der Verwaltung.
+Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden des Rechenzentrums und der Universitätsbibliothek.
 
 Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
@@ -851,9 +851,9 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
 **Zentrales Forschungsdatenmanagement heute**
 
-- Derzeit 9 Kolleg*innen für FDM, DH, IT, Didaktik und Recht
+- Derzeit 9 Kolleg*innen für FDM, DH, IT und Didaktik
 
-- Kooperation zwischen RZ, UB, Verwaltung
+- Kooperation zwischen RZ und UB
 
 - Entwicklung und Bereitstellung grundlegender Services für FAIR and Open Data
 
