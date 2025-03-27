@@ -751,43 +751,83 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 >
 >- Existieren bereits Konventionen für Ordnerstrukturen und Dateibenennungen?
 >- Existieren Routinen, wie z. B. regelmäßiges Aufräumen/Sortieren oder Löschen?
->- Welche positiven Erfahrung können Sie teilen, wie Ordnung und Übersichtlichkeit von Dateien im Arbeisalltag aufrecht erhalten werden kann?
+>- Welche positiven Erfahrungen können Sie teilen, wie im Arbeitsalltag eine ordentliche und übersichtliche Struktur von Dateien effektiv beibehalten werden kann?
 >- Welche negativen Erfahrung diesbezüglich können Sie teilen? 
 
-# Formate
+# Organisation von Daten in Tabellen
+Eine gute Tabellenstruktur erleichtert nicht nur die Datennutzung, sondern auch die langfristige Verwaltung und Archivierung. 
 
-> **Warum ist es relevant, sich über genutzte Dateiformate Gedanken zu machen?**
+~~__Ein paar grundlegende Punkte, die bei der Organsiation von Daten in Tabellen helfen können:__~~
 
-## ~~Partnerarbeit~~: Dateiformate
+{{1-12}}
+1. **Nur eine Information pro Spalte**
 
->![Bild](../Datenmanagement/images/FragezeichenTyp.jpg) <!-- width="150px" align="right" -->
->
->**Partnerarbeit**
->
->Tauschen Sie sich zu den Dateiformaten aus, mit denen Sie arbeiten.
->
->* Mit welchen Dateiformaten arbeiten Sie?
->* Welche Software wird benötigt, um die Formate zu lesen und zu bearbeiten?
->* Welche Besonderheiten sind zu beachten?
->* Welchen Problemen sind Sie im Zusammenhang mit Dateiformaten schon begegnet?
+   - Jede Information sollte in einer eigenen Spalte angelegt werden, z. B. eigene Spalten für *Nachname* und *Vorname* anstatt nur einer einzigen Spalte *Name*. 
 
-## Empfehlungen: Dateiformate
+{{2-12}}
+2. **Verwendung von klaren und konsistenten Spaltenüberschriften**
 
-Je nach konkretem Anwendungsfall ist individuell zu bewerten, für welchen Arbeitsschritt, welches Dateiformat zu nutzen ist. 
+   - Jede Spalte sollte eine eindeutige, leicht verständliche Überschrift haben, die klar beschreibt, welche Art von Daten darin enthalten sind.
+   
+   - Abkürzungen: Falls Abkürzungen notwendig sind, sollten diese nachvollziehbar dokumentiert sein.
 
-Sobald Daten geteilt werden und/oder archiviert werden sollen, ist auf möglichst große Interoperabilität der Formate zu achten. 
+{{3-12}}
+3. **Datenkonsistenz**
 
-Die Tabelle bietet eine grobe Empfehlung:
+   - Einheitliche Angaben: Stellen Sie sicher, dass alle Daten einer Spalte in der gleichen Form vorliegen (z. B. Datumsangaben immer im Format jjjj-mm-tt).
 
-![Formate](../Datenmanagement/images/formate.png) 
+{{4-12}}
+4. **Vermeidung von Leerzeichen und Sonderzeichen in Spaltenüberschriften**
 
-**Weiterführende Informationen finden Sie z. B. hier:**
+   - Leerzeichen und Sonderzeichen können eine (automatische) Verarbeitung der Daten erschweren.
 
-- https://forschungsdaten.info/themen/veroeffentlichen-und-archivieren/formate-erhalten/ 
+{{5-12}}
+5. **Vermeidung unnötiger Leerzeilen und Spalten**
 
-- https://www.forschungsdaten-bildung.de/dateiformate 
+   - Unnötige Leerzeilen und Spalten können eine (automatische) Verarbeitung der Daten erschweren.
+   
+{{6-12}}
+6. **Hierarchie und Struktur durch Gruppierung**
 
-- https://kost-ceco.ch/cms/kad_main_de.html
+   - Kategorisierung: Wo möglich, gruppieren Sie ähnliche Daten in benachbarten Spalten. Beispielsweise können Adressdaten in benachbarten Spalten wie „Straße“, „PLZ“, „Ort“ abgelegt werden.
+
+   - Tabellenblätter: Verwenden Sie mehrere Blätter für unterschiedliche Datengruppen (z. B. ein Blatt für Studierende, ein anderes für Dozentendaten), um die Tabelle nicht unnötig zu überladen.
+
+{{7-12}}
+7. **Eindeutige Identifikatoren verwenden**
+
+   - Die Verwendung von eindeutigen Identifikatoren Sie für jede Zeile kann helfen Duplikate zu vermeiden und Nachverfolgbarkeit zu gewährleisten.
+
+{{8-12}}
+8. **Datenvalidierung und Fehlervermeidung**
+
+   - Validierungsregeln: Richten Sie Datenvalidierungen ein, um Eingabefehler zu minimieren (z. B. Eingabe von Text in ein Feld für Zahlen).
+
+   - Eingabemasken verwenden: In Software wie Excel können Eingabemasken helfen, die Konsistenz zu wahren.
+
+{{9-12}}
+9. **Formatierung und Farbgestaltung**
+
+   - Verwenden Sie Farben sparsam, um wichtige Daten hervorzuheben, jedoch niemals, um zusätzliche Informationen abzulegen.
+
+   - Bedingte Formatierung: Nutzen Sie bedingte Formatierungen, um bestimmte Werte (z. B. abgelaufene Fristen) visuell hervorzuheben.
+
+{{10-12}}
+10. **Dokumentation**
+
+   - Erstellung von Dokumentationen: Führen Sie eine Übersicht über die Struktur und Bedeutung der Beschriftugen von Tabellenblättern und Spalten, inkl. Erläuterung genutzter Abkürzungen, die als Referenz für alle Benutzer dient.
+
+   - Information/Schulung von Mitarbeitenden: Sensibilisieren Sie alle Mitwirkenden für die gewählte Vorgehensweise bei der Dateneingabe und -organisation.
+
+{{11-12}}
+11. **Regelmäßige Sicherung und Back up**
+
+   - Datensicherung: Stellen Sie sicher, dass alle Daten regelmäßig gesichert werden, um Verlust zu vermeiden.
+
+{{12-12}}
+12. **Datenschutz und Sicherheitsvorkehrungen**
+
+   - Zugangskontrollen: Stellen Sie sicher, dass nur autorisierte Personen Zugriff auf sensible Daten haben.
 
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
