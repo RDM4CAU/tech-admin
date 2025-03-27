@@ -759,75 +759,79 @@ Eine gute Tabellenstruktur erleichtert nicht nur die Datennutzung, sondern auch 
 
 ~~__Ein paar grundlegende Punkte, die bei der Organsiation von Daten in Tabellen helfen können:__~~
 
-{{1-12}}
+{{1-13}}
 1. **Nur eine Information pro Spalte**
 
    - Jede Information sollte in einer eigenen Spalte angelegt werden, z. B. eigene Spalten für *Nachname* und *Vorname* anstatt nur einer einzigen Spalte *Name*. 
 
-{{2-12}}
+{{2-13}}
 2. **Verwendung von klaren und konsistenten Spaltenüberschriften**
 
    - Jede Spalte sollte eine eindeutige, leicht verständliche Überschrift haben, die klar beschreibt, welche Art von Daten darin enthalten sind.
    
    - Abkürzungen: Falls Abkürzungen notwendig sind, sollten diese nachvollziehbar dokumentiert sein.
 
-{{3-12}}
+{{3-13}}
 3. **Datenkonsistenz**
 
    - Einheitliche Angaben: Stellen Sie sicher, dass alle Daten einer Spalte in der gleichen Form vorliegen (z. B. Datumsangaben immer im Format jjjj-mm-tt).
 
-{{4-12}}
+{{4-13}}
 4. **Vermeidung von Leerzeichen und Sonderzeichen in Spaltenüberschriften**
 
    - Leerzeichen und Sonderzeichen können eine (automatische) Verarbeitung der Daten erschweren.
 
-{{5-12}}
+{{5-13}}
 5. **Vermeidung unnötiger Leerzeilen und Spalten**
 
    - Unnötige Leerzeilen und Spalten können eine (automatische) Verarbeitung der Daten erschweren.
    
-{{6-12}}
+{{6-13}}
 6. **Hierarchie und Struktur durch Gruppierung**
 
    - Kategorisierung: Wo möglich, gruppieren Sie ähnliche Daten in benachbarten Spalten. Beispielsweise können Adressdaten in benachbarten Spalten wie „Straße“, „PLZ“, „Ort“ abgelegt werden.
 
    - Tabellenblätter: Verwenden Sie mehrere Blätter für unterschiedliche Datengruppen (z. B. ein Blatt für Studierende, ein anderes für Dozentendaten), um die Tabelle nicht unnötig zu überladen.
 
-{{7-12}}
+{{7-13}}
 7. **Eindeutige Identifikatoren verwenden**
 
    - Die Verwendung von eindeutigen Identifikatoren Sie für jede Zeile kann helfen Duplikate zu vermeiden und Nachverfolgbarkeit zu gewährleisten.
 
-{{8-12}}
+{{8-13}}
 8. **Datenvalidierung und Fehlervermeidung**
 
    - Validierungsregeln: Richten Sie Datenvalidierungen ein, um Eingabefehler zu minimieren (z. B. Eingabe von Text in ein Feld für Zahlen).
 
    - Eingabemasken verwenden: In Software wie Excel können Eingabemasken helfen, die Konsistenz zu wahren.
 
-{{9-12}}
+{{9-13}}
 9. **Formatierung und Farbgestaltung**
 
    - Verwenden Sie Farben sparsam, um wichtige Daten hervorzuheben, jedoch niemals, um zusätzliche Informationen abzulegen.
 
    - Bedingte Formatierung: Nutzen Sie bedingte Formatierungen, um bestimmte Werte (z. B. abgelaufene Fristen) visuell hervorzuheben.
 
-{{10-12}}
+{{10-13}}
 10. **Dokumentation**
 
    - Erstellung von Dokumentationen: Führen Sie eine Übersicht über die Struktur und Bedeutung der Beschriftugen von Tabellenblättern und Spalten, inkl. Erläuterung genutzter Abkürzungen, die als Referenz für alle Benutzer dient.
 
    - Information/Schulung von Mitarbeitenden: Sensibilisieren Sie alle Mitwirkenden für die gewählte Vorgehensweise bei der Dateneingabe und -organisation.
 
-{{11-12}}
+{{11-13}}
 11. **Regelmäßige Sicherung und Back up**
 
    - Datensicherung: Stellen Sie sicher, dass alle Daten regelmäßig gesichert werden, um Verlust zu vermeiden.
 
-{{12-12}}
+{{12-13}}
+************
+
 12. **Datenschutz und Sicherheitsvorkehrungen**
 
    - Zugangskontrollen: Stellen Sie sicher, dass nur autorisierte Personen Zugriff auf sensible Daten haben.
+
+********
 
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
