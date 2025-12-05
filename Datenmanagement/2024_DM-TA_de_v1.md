@@ -12,6 +12,8 @@ licence: cc-by
 
 title:  Einführung in das Datenmanagement für technisch-administratives Personal.
 
+link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
+
 comment:  Einführungsworkshop zum Datenmanagement für technisch-administratives Personal (2h).
 
 @style
