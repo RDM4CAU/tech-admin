@@ -90,7 +90,7 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 
 <img src="../Datenmanagement/images/juggle-emoji.png" width="100" height="100" align=right alt="juggle">
 
-> **Kennenlernen und Warm up**
+> **Kennenlernen und Warm up** 🤹
 >
 > Was ist Ihr Interesse an dem Thema?
 >
@@ -817,7 +817,7 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
 **Zentrales Forschungsdatenmanagement heute**
 
-- Derzeit 9 Kolleg*innen für FDM, DH, IT und Didaktik
+- Derzeit 12 Kolleg*innen für FDM, DH, IT und Didaktik
 
 - Kooperation zwischen RZ und UB
 
