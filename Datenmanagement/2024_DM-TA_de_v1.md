@@ -891,7 +891,7 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
 **Zentrales Forschungsdatenmanagement heute**
 
-- Derzeit 9 Kolleg*innen für FDM, DH, IT und Didaktik
+- Derzeit 12 Kolleg*innen für FDM, DH, IT und Didaktik
 
 - Kooperation zwischen RZ und UB
 
@@ -955,11 +955,11 @@ https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
 {{1}}
 ***
-An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
+An der Universitätsbibliothek finden Sie Kurse zur Literaturverwaltung sowie verschiedenes Selbstlernmaterial:
 
 ![Bild](../Datenmanagement/images/citavi-UB.jpg)
 
-https://www.ub.uni-kiel.de/de/beratung-kurse/spezifische-angebote-fuer-lehrende-wissenschaftler-innen-und-promovierende
+https://www.ub.uni-kiel.de/de/kurse
 
 ***
 
