@@ -881,11 +881,11 @@ https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi
 
 {{1}}
 ***
-An der Universitätsbibliothek finden Sie Kurse zu citavi sowie verschiedenes Selbstlernmaterial:
+An der Universitätsbibliothek finden Sie Kurse zur Literaturverwaltung sowie verschiedenes Selbstlernmaterial:
 
 ![Bild](../Datenmanagement/images/citavi-UB.jpg)
 
-https://www.ub.uni-kiel.de/de/beratung-kurse/spezifische-angebote-fuer-lehrende-wissenschaftler-innen-und-promovierende
+https://www.ub.uni-kiel.de/de/kurse
 
 ***
 
