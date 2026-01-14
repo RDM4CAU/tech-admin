@@ -331,7 +331,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # FAIR-Prinzipien
 
-><font size="5">Das **Ziel** im Umgang mit Forschungsdaten ist es, Daten **langfristig** und **personenunabhängig** ~~zugänglich~~, ~~nachnutzbar~~ und ~~nachprüfbar~~ zu halten.</font>
+>Das **Ziel** im Umgang mit Forschungsdaten ist es, Daten **langfristig** und **personenunabhängig** ~~zugänglich~~, ~~nachnutzbar~~ und ~~nachprüfbar~~ zu halten.
 
 {{0-1}}
 ********************************************************************************
@@ -420,6 +420,9 @@ R1.3. (Meta)data meet domain-relevant community standards
 <div style="page-break-after: always;"></div>
 
 # Policies der CAU
+
+{{1}}
+****************
 In Bezug auf das Forschungsdatenmanagement relevante Policies der CAU:
 
 - [Leitlinie zum Umgang mit Forschungsdaten](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinie-zum-umgang-mit-forschungsdaten)
@@ -427,6 +430,8 @@ In Bezug auf das Forschungsdatenmanagement relevante Policies der CAU:
 - [Leitlinien zur Förderung von Open Access](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinien-zur-forderung-von-open-access)
 
 - [Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/Richtlinien-Sicherung-guter-wissenschaftlicher-Praxis.pdf)
+
+****************
 
 <div style="page-break-after: always;"></div>
 
@@ -883,6 +888,7 @@ Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden de
 Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
 **Entwicklung eines campusweiten Forschungsdatenmanagements an der CAU**
+
 2013	Zentrales FDM-Servicebüro und strategische Weiterentwicklung mit der AG FDM
 
 2015	Verabschiedung einer universitären Leitlinie zum Umgang mit Forschungsdaten
@@ -891,9 +897,7 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
 **Zentrales Forschungsdatenmanagement heute**
 
-- Derzeit 12 Kolleg*innen für FDM, DH, IT und Didaktik
-
-- Kooperation zwischen RZ und UB
+- Kolleg:innen aus RZ und UB für Themen aus FDM, DH, IT und Didaktik
 
 - Entwicklung und Bereitstellung grundlegender Services für FAIR and Open Data
 
@@ -962,6 +966,13 @@ An der Universitätsbibliothek finden Sie Kurse zur Literaturverwaltung sowie ve
 https://www.ub.uni-kiel.de/de/kurse
 
 ***
+
+<div style="page-break-after: always;"></div>
+
+## FIS 📟 🔦 📣 📦 🕵️ 🦑 🦉
+
+https://www.fis.uni-kiel.de/de
+
 
 <div style="page-break-after: always;"></div>
 
