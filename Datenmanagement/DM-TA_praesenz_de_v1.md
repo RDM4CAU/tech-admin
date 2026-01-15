@@ -102,9 +102,11 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 
 <img src="../Datenmanagement/images/zettelkasten-emoji.png" width="150" height="100" align=right alt="file folder">
 
->**Was genau ist mit dem Begriff Datenmanagement gemeint? Welche Inhaltsaspekte gehören eigentlich dazu?**
+>**Was genau ist mit dem Begriff Datenmanagement gemeint?**
 >
-> Was denken Sie? Welche Inhaltsaspekte gehören zum Datenmanagement?
+>**Welche Inhaltsaspekte gehören eigentlich dazu?**
+>
+>**Was denken Sie? Welche Inhaltsaspekte gehören zum Datenmanagement?**
 
 <div style="page-break-after: always;"></div>
 
@@ -200,12 +202,12 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 > 
 >  - **IT/Rechenzentrum:** Infrastruktur, Speicher, Backup, Zugriffskontrollen  
 >
->  - **Bibliothek / Dokumentation:** Metadaten, Repositorien, Lizenzen, Publikationsunterstützung  
+>  - **Bibliothek:** Metadaten, Repositorien, Lizenzen, Publikationsunterstützung  
 >
 >  - **Verwaltung, Sekretariate & Projektassistenz:** Projektorganisation, Ablage, Übergaben, Dokumentation  
 >
 >  - **Data Stewards:** Koordination, Schnittstelle zwischen Forschenden und Serviceeinheiten, Beratung zu Standards und Policies
->
+
 >**Gutes Forschungsdatenmanagement ist Teamarbeit – jede Rolle trägt auf ihre Weise zur Qualität und Nachnutzbarkeit der Daten bei.**
 
 <div style="page-break-after: always;"></div>
@@ -214,20 +216,26 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 >**Typische Beiträge von Servicepersonal (Labor, IT, Bibliothek, Verwaltung, Projektassistenz, Data Stewards)**
 >
->🟢 Unterstützung bei Datenerzeugung, -erfassung und -ablage  
+>🟢 Unterstützung bei Datenerzeugung, -erfassung und -ablage
+>
 >🟢 Etablierung von Arbeitsabläufen, Ordnerstrukturen und Dateibenennung  
+>
 >🟢 Sicherstellung von Dokumentationen und Übergaben  
+>
 >🟢 Hinweise auf Policies, Fördereranforderungem, Templates, FAIR-Prinzipien, Metadaten, Repositorien  
+>
 >🟢 Sensibilisierung für gute Praxis und Qualitätsstandards
 >
 >**Nicht Teil Ihrer Verantwortung**
 >
 >🔴 Wissenschaftliche Interpretation und Bewertung von Daten  
+>
 >🔴 Entscheidungen über Forschungsdesign, Methodik oder Publikationen  
+>
 >🔴 Rechtliche Verantwortung für Datennutzung oder Ergebnisse
 >
->**Ihr Beitrag schafft verlässliche Rahmenbedingungen –  
-die wissenschaftliche Verantwortung bleibt bei den Forschenden.**
+
+>**Ihr Beitrag schafft verlässliche Rahmenbedingungen – die wissenschaftliche Verantwortung bleibt bei den Forschenden.**
 
 <div style="page-break-after: always;"></div>
 
@@ -243,7 +251,8 @@ die wissenschaftliche Verantwortung bleibt bei den Forschenden.**
 >
 >- Ein Datenmanagementplan ist in einigen Förderprogrammen (in unterschiedlichem Umfang und Detailgrad) im Antrag vorgesehen.
 >
->**Als Servicepersonal können Sie:**
+>**Als technisch-adminstratives Personal können Sie:**
+>
 >- auf Anforderungen von Förderern hinweisen
 >
 >- Struktur und Verständnis von Angaben zum FDM unterstützen  
@@ -370,9 +379,9 @@ Eine Angabe bzgl. der Nutzungsbedingungen (z. B. Lizenzen) sollte vorliegen.
 
 {{0-1}}
 ****************
-Relevante Leitlinien oder Policies sollten in jedem DMP genannt werden.
-
-Sind relevante Leitlinien der CAU bekannt?
+>Relevante Leitlinien oder Policies sollten bekannt sein und in jedem DMP genannt werden.
+>
+>**Sind relevante Leitlinien der CAU bekannt?**
 
 ****************
 
@@ -408,7 +417,7 @@ Sind relevante Leitlinien der CAU bekannt?
 
 {{1-2}}
 ********************************************************************************
-<img src="../Datenmanagement/images/Dateibenennung_bad.png" alt="comic"  style="float:right"/>
+<img src="../Datenmanagement/images/Dateibenennung_bad.png" alt="comic"  style="float:right; width:25%">
 
 * Haben Sie sich schon mal über sich selbst geärgert, weil Sie bestimmte Dateien nicht oder nur mit großem Aufwand finden konnten?
 
@@ -420,7 +429,7 @@ Sind relevante Leitlinien der CAU bekannt?
 
 {{2}}
 ********************************************************************************
-<img src="../Datenmanagement/images/Comic_Datenverlust_web.jpg" alt="comic"  style="float:right"/>
+<img src="../Datenmanagement/images/Comic_Datenverlust_web.jpg" alt="comic"  style="float:right; width:50%"/>
 
 Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 
@@ -444,7 +453,7 @@ Folgende Punkte können bei der Erstellung einer (nachvollziehbaren) Ordnerstruk
 
 * Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen
 
-  * Mögliche Ordnungskategorien: Teilprojekte, Arbeitspakete, Datum oder Zeitraum (z. B. Monate, Quartale), Datentypen, Datenanalysen, Literatur, Formate, ...
+  * Mögliche Ordnungskategorien: Projekte, Teilprojekte, Arbeitspakete, Datum oder Zeitraum (z. B. Monate, Quartale), Datentypen (z. B. Text, Abbildungen), Datenanalysen, Literatur, ...
 {{2-9}}
 * Beschreibende Ordnernamen verweisen auf die Inhalte
 {{3-9}}
@@ -488,7 +497,7 @@ Folgende Punkte können bei der Erstellung (nachvollziehbarer) Dateinamen helfen
 {{2-9}}
 * Grundsätzlich keine unspezifischen Dateinamen (z. B.untitled3746.csv) verwenden
 {{3-9}}
-* Dateinamen in Namensbestandteilen festlegen, Art der Trennung und Reihenfolge der Namensbestandteile beibehalten (z.B date_site_probe0000_approach.extension)
+* Dateinamen in Namensbestandteilen festlegen, Art der Trennung und Reihenfolge der Namensbestandteile beibehalten (z.B date\_site\_probe0000\_approach.extension)
 {{4-9}}
 * Grundsätzlich keine Sonderzeichen, Umlaute oder Leerzeichen in Dateinamen benutzen
 {{5-9}}
@@ -496,9 +505,9 @@ Folgende Punkte können bei der Erstellung (nachvollziehbarer) Dateinamen helfen
 {{6-9}}
 * Führende Null(en) bei Nummerierungen verwenden
 {{7-9}}
-* Datumsangaben nach der ISO 8601 (YYYYMMDD oder YYYY-MM-DD oder YYYY_MM_DD)
+* Datumsangaben nach der ISO 8601 (YYYYMMDD oder YYYY-MM-DD oder YYYY\_MM\_DD)
 {{8-9}}
-* Keine unspezifischen Namensanhänge, wie _final, _neu, _fertig o. ä. verwenden!
+* Keine unspezifischen Namensanhänge, wie \_final, \_neu, \_fertig o. ä. verwenden!
 
 {{9-10}}
 ********************************************************************************
@@ -518,6 +527,7 @@ Folgende Punkte können bei der Erstellung (nachvollziehbarer) Dateinamen helfen
 ********************************************************************************
 Beispiele für Benennungskonventionen:
 
+<!-- style="width:120%" -->
 ![Bild](../Datenmanagement/images/Abb_Beispiele-Benennungskonvention_2022_bp.png)
 
 ********************************************************************************
@@ -748,12 +758,10 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 >
 >Tauschen Sie sich in Ihren Gruppen zum aktuellen Vorgehen bzgl. Ordnerstrukturen und Dateibennungen in ihren jeweiligen Tätigkeitsbereichen aus.
 >
->- Existieren Konventionen für Ordnerstrukturen und Dateibenennungen?
->- Existieren Routinen, wie z. B. regelmäßiges Aufräumen/Sortieren oder Löschen?
+>- Existieren in Ihrem Bereich Konventionen zum Umgang mit Daten (z. B. zur Benennung) und/oder bestimmte Routinen, wie z. B. regelmäßiges Aufräumen/Sortieren oder Löschen von Dateien?
 >- Welche positiven Erfahrungen können Sie teilen, wie im Arbeitsalltag eine ordentliche und übersichtliche Struktur von Dateien effektiv beibehalten werden kann?
->- Welche negativen Erfahrung diesbezüglich können Sie teilen?
 
->Ganz generell: Wenn Sie an das Handling von Daten in Ihrem jeweiligen Tätigkeitsbereich denken
+>**Ganz generell**: Wenn Sie an das Handling von Daten in Ihrem jeweiligen Tätigkeitsbereich denken:
 >- An welchen Stellen wünschen sich Kolleg:innen oder Forschende Unterstützung von Ihnen?
 >- Wo ziehen Sie bewusst eine Grenze und verweisen weiter?
 
@@ -849,15 +857,7 @@ Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden de
 
 Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
-**Entwicklung eines campusweiten Forschungsdatenmanagements an der CAU**
-
-2013	Zentrales FDM-Servicebüro und strategische Weiterentwicklung mit der AG FDM
-
-2015	Verabschiedung einer universitären Leitlinie zum Umgang mit Forschungsdaten
-
-2021	Zentrales FDM-Team 
-
-**Zentrales Forschungsdatenmanagement heute**
+**Zentrales Forschungsdatenmanagement**
 
 - Kolleg:innen aus RZ und UB für Themen aus FDM, DH, IT und Didaktik
 
@@ -935,7 +935,7 @@ https://www.ub.uni-kiel.de/de/kurse
 
 ## FIS 🔦
 
-https://www.fis.uni-kiel.de/de
+<iframe src="https://www.fis.uni-kiel.de/de" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 # Fragen und Anmerkungen
 
