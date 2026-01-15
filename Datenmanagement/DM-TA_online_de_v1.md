@@ -90,18 +90,92 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 
 <img src="../Datenmanagement/images/juggle-emoji.png" width="100" height="100" align=right alt="juggle">
 
-> **Kennenlernen und Warm up** 🤹
+> **Lassen Sie uns zum Aufwärmen ein kleines Spiel spielen:**
 >
-> Was ist Ihr Interesse an dem Thema?
+> Verdecken Sie Ihre Kamera mit einem Post-it oder einem Finger.
 >
-> Warum sind Sie hier?
+> Ich lese Aussagen vor.
+>
+> Bei jeder Aussage, der Sie zustimmen können, zeigen Sie sich bitte wieder und winken kurz in die Kamera.
+>
+> Los geht's!
+
+{{1-2}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich trinke morgens gerne Kaffee.</p>
+
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich werden von Studierenden / Promovierenden bezüglich Vorgaben für Abschlussarbeiten u. ä. gefragt.</p>
+
+********************************************************************************
+
+{{3-4}}
+********************************************************************************
+
+><p style="color:#9a047f">Wenn ich mich entscheiden muss, ob ich ins Kino oder in ein Konzert gehe, entscheide ich mich wahrscheinlich für das Konzert.</p>
+
+********************************************************************************
+
+{{4-5}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich arbeite in einem Labor.</p>
+
+********************************************************************************
+
+{{5-6}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich arbeite in einem Sekretariat.</p>
+
+********************************************************************************
+
+{{6-7}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich habe ein Haustier.</p>
+
+********************************************************************************
+
+{{7-8}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich habe noch gar keine genaue Vorstellung davon, welche Inhalte zum Bereich Datenmanagement gehören könnten.</p>
+
+********************************************************************************
+
+{{8-9}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich habe im Rahmen meiner Tätigkeiten mit Drittmittelanträgen zu tun.</p>
+
+********************************************************************************
+
+{{9-10}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich wohne nicht in Kiel.</p>
+
+********************************************************************************
+
+{{10-11}}
+********************************************************************************
+
+><p style="color:#9a047f">Ich bin in einem Bereich der zentralen Verwaltung tätig.</p>
+
+********************************************************************************
 
 <div style="page-break-after: always;"></div>
 
 # Einstieg
 >***Wir würden gerne erfahren, mit welchen Daten und mit welchen Tools Sie hauptsächlich arbeiten und mit welchen Anliegen Sie in diesen Workshop gekommen sind.***
 
-> **Sammeln Sie kurz gemeinsam:**
+> **Lassen Sie uns kurz gemeinsam sammeln:**
 >
 >* Daten und Tools, mit denen Sie beruflich umgehen.
 >* Anliegen, die Sie in diesen Workshop mitbringen.
@@ -900,6 +974,7 @@ https://www.ub.uni-kiel.de/de/kurse
 https://www.fis.uni-kiel.de/de
 
 
+<div style="page-break-after: always;"></div>
 
 # Fragen und Anmerkungen
 
