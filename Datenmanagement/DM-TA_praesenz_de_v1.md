@@ -756,7 +756,7 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 >**Gruppenarbeit**
 >
->Tauschen Sie sich in Ihren Gruppen zum aktuellen Vorgehen bzgl. Ordnerstrukturen und Dateibennungen in ihren jeweiligen Tätigkeitsbereichen aus.
+>Tauschen Sie sich in Ihren Gruppen zum aktuellen Vorgehen bzgl. Datenmanagement in Ihren jeweiligen Tätigkeitsbereichen aus.
 >
 >- Existieren in Ihrem Bereich Konventionen zum Umgang mit Daten (z. B. zur Benennung) und/oder bestimmte Routinen, wie z. B. regelmäßiges Aufräumen/Sortieren oder Löschen von Dateien?
 >- Welche positiven Erfahrungen können Sie teilen, wie im Arbeitsalltag eine ordentliche und übersichtliche Struktur von Dateien effektiv beibehalten werden kann?
