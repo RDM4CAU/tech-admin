@@ -48,7 +48,7 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >**Wir möchten erreichen, dass Sie am Ende des Workshops ...**
 >
 >* ... einige Grundbegriffe und einige Vorgehensweisen beschreiben können, die für die Organisation von Daten hilfreich sind.
->* ... beschreiben können, weshalb ein gutes Management von Forschungsdaten von Bedeutung ist.
+>* ... beschreiben können, weshalb ein gutes Management von Daten von Bedeutung ist.
 >* ... über die eigene Rolle in den Prozessen des Datenmanagements diskutiert haben.
 >* ... einige relevante Strukturen und Services der CAU nennen können.
 >* ... mit anderen und uns über ihre Vorgehensweisen im Umgang mit Daten und über Ihre Unterstützungsbedarfe diskutiert haben.
@@ -82,7 +82,7 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >- Datenmanagement? Was ist das und was soll das?
 >- Forschungsdaten und Forschungsförderer
 >- Daten ordnen und strukturieren
->- Services und Policies an der CAU
+>- Services und Policies an der CAU (zu Forschungsdaten)
 >- Diskussion und Ausklang
 
 <div style="page-break-after: always;"></div>
@@ -168,53 +168,10 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 <div style="page-break-after: always;"></div>
 
-### Beispiele für Forschungsdaten
-
-<img src="../Datenmanagement/images/forschungsdatenBSP.png" width="350" height="100" align=right alt="examples research data">
-
-- Audio- und Videoaufzeichnungen
-- Tagebücher
-- Daten aus geografischen Informationssystemen (GIS)
-- Labor- und Feldnotizen
-- Modell-, Skript- und Forschungssoftwarecode
-- Bilder und Abbildungen
-- Fragebögen und Codebücher
-- Proben und Artefakte
-- Sensor-Daten
-- Sequenzierdaten
-- Spektren
-- Text- und Tabellenkalkulationsdokumente
-- Textkorpora und Annotationen
-- Topographie-Daten
-- Abschriften
-
-<div style="page-break-after: always;"></div>
-
-## Rollen im Datenmanagement
-
->**Forschungsdatenmanagement entsteht im Zusammenspiel verschiedener Rollen – jede bringt andere Perspektiven und Aufgaben ein.**
-
->- **Forschende:** Verantwortung für wissenschaftliche Fragestellungen, Datenerhebung, Analyse und fachliche Bewertung
-> 
->- **Technisch-administratives Personal:** Unterstützung bei allen organisatorischen und technischen Rahmenbedingungen
->
->  - **Labore & Werkstätten:** Datenerfassung, Geräte- und Probenmanagement
-> 
->  - **IT/Rechenzentrum:** Infrastruktur, Speicher, Backup, Zugriffskontrollen  
->
->  - **Bibliothek:** Metadaten, Repositorien, Lizenzen, Publikationsunterstützung  
->
->  - **Verwaltung, Sekretariate & Projektassistenz:** Projektorganisation, Ablage, Übergaben, Dokumentation  
->
->  - **Data Stewards:** Koordination, Schnittstelle zwischen Forschenden und Serviceeinheiten, Beratung zu Standards und Policies
-
->**Gutes Forschungsdatenmanagement ist Teamarbeit – jede Rolle trägt auf ihre Weise zur Qualität und Nachnutzbarkeit der Daten bei.**
-
-<div style="page-break-after: always;"></div>
 
 ### Beiträge und Grenzen
 
->**Typische Beiträge von Servicepersonal (Labor, IT, Bibliothek, Verwaltung, Projektassistenz, Data Stewards)**
+>**Typische Beiträge von Servicepersonal (Labor, IT, Bibliothek, Verwaltung, Projektassistenz, Data Stewards) zum Forschungsdatenmanagement**
 >
 >🟢 Unterstützung bei Datenerzeugung, -erfassung und -ablage
 >
@@ -239,74 +196,10 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 <div style="page-break-after: always;"></div>
 
-# Förderorganisationen
-
-{{0-3}}
-****************
-<img src="../Datenmanagement/images/fingerup-emoji.png" width="100" height="100" align=right alt="finger up">
-
->**Datenmanagementanforderungen sind heute fester Bestandteil vieler Förderprogramme.**
->
->- Angaben zum Forschungsdatenmanagement (FDM) sind heute in den meisten Förderanträgen verpflichtend.
->
->- Ein Datenmanagementplan ist in einigen Förderprogrammen (in unterschiedlichem Umfang und Detailgrad) im Antrag vorgesehen.
->
->**Als technisch-adminstratives Personal können Sie:**
->
->- auf Anforderungen von Förderern hinweisen
->
->- Struktur und Verständnis von Angaben zum FDM unterstützen  
->
->- auf Templates, Beratungsangebote und Services verweisen
->
->**Die Verantwortung für inhaltliche Angaben liegt bei den Projektleitungen.**
-
-****************
-
-{{1-3}}
-****************
-
->**Informationen, die in Förderanträgen und/oder DMPs genannt werden sollten:**
->
->- Relevante FDM-Richtlinien (z. B. FAIR-Prinzipien, Forschungsdaten-Policy der Forschungsinstitution, Leitlinien der Fachgesellschaft)
->
->- Innerhalb des Vorhabens zu generierende und/oder nachzunutzende Daten bzw. Datentypen
->
->- Angaben zur geplanten Nutzung von IT-Infrastrukturen (u. a. zur Sicherung, Speicherung)
->
->- Angaben zur geplanten Veröffentlichung von Daten, z. B. in geeigneten Repositorien
->
->- Angaben zur Aufbewahrung von Daten nach Projektende
-
-****************
-
-{{2-3}}
-****************
-
-><img src="../Datenmanagement/images/fingerup-emoji.png" width="100" height="100" align=right alt="finger up">
->
->- FDM-Vorgaben unterscheiden sich nicht nur hinsichtlich der jeweiligen Förderinstitution, sondern auch je nach Förderlinie bzw. Förderprogramm.
->
->- **Die Spezifika und Anforderungen des Förderprogramms sind daher vorab zu klären!**
-
-****************
-
-{{3}}
-****************
-
-><img src="../Datenmanagement/images/write-emoji.png" width="100" height="100" align=right alt="finger up">
->
->- Unterstützung bei der Erstellung von DMPs bietet das Zentrale FDM der CAU: **info@fdm.uni-kiel.de**.
->
->- **Ein Template für einen DMP sowie weitere unterstützende Materialien finden Sie ebenfalls auf den Seiten des [Zentralen Forschungsdatenmanagements](https://www.datamanagement.uni-kiel.de/de/service/materialien)**
-
-****************
-
-<div style="page-break-after: always;"></div>
 
 # FAIR-Prinzipien
 
->Das **Ziel** im Umgang mit Forschungsdaten ist es, Daten **langfristig** und **personenunabhängig** ~~zugänglich~~, ~~nachnutzbar~~ und ~~nachprüfbar~~ zu halten.
+>Das **Ziel** im Umgang mit (Forschungs)Daten ist es, Daten **langfristig** und **personenunabhängig** ~~zugänglich~~, ~~nachnutzbar~~ und ~~nachprüfbar~~ zu halten.
 
 {{0-1}}
 ********************************************************************************
@@ -375,29 +268,6 @@ Eine Angabe bzgl. der Nutzungsbedingungen (z. B. Lizenzen) sollte vorliegen.
 
 <div style="page-break-after: always;"></div>
 
-# Policies der CAU
-
-{{0-1}}
-****************
->Relevante Leitlinien oder Policies sollten bekannt sein und in jedem DMP genannt werden.
->
->**Sind relevante Leitlinien der CAU bekannt?**
-
-****************
-
-{{1}}
-****************
-**Relevante Leitlinien der CAU:**
-
-- [Leitlinie zum Umgang mit Forschungsdaten](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinie-zum-umgang-mit-forschungsdaten)
-
-- [Leitlinien zur Förderung von Open Access](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinien-zur-forderung-von-open-access)
-
-- [Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/Richtlinien-Sicherung-guter-wissenschaftlicher-Praxis.pdf)
-
-****************
-
-<div style="page-break-after: always;"></div>
 
 # Daten ordnen und strukturieren
 
@@ -767,86 +637,6 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 <div style="page-break-after: always;"></div>
 
-# Organisation von Daten in Tabellen
-Eine gute Tabellenstruktur erleichtert nicht nur die Datennutzung, sondern auch die langfristige Verwaltung und Archivierung.
-
-~~__Ein paar grundlegende Punkte, die bei der Organsiation von Daten in Tabellen helfen können:__~~
-
-{{1-13}}
-1. **Nur eine Information pro Spalte**
-
-   - Jede Information sollte in einer eigenen Spalte angelegt werden, z. B. eigene Spalten für *Nachname* und *Vorname* anstatt nur einer einzigen Spalte *Name*.
-
-{{2-13}}
-2. **Verwendung von klaren und konsistenten Spaltenüberschriften**
-
-   - Jede Spalte sollte eine eindeutige, leicht verständliche Überschrift haben, die klar beschreibt, welche Art von Daten darin enthalten sind.
-   
-   - Abkürzungen: Falls Abkürzungen notwendig sind, sollten diese nachvollziehbar dokumentiert sein.
-
-{{3-13}}
-3. **Datenkonsistenz**
-
-   - Einheitliche Angaben: Stellen Sie sicher, dass alle Daten einer Spalte in der gleichen Form vorliegen (z. B. Datumsangaben immer im Format jjjj-mm-tt).
-
-{{4-13}}
-4. **Vermeidung von Leerzeichen und Sonderzeichen in Spaltenüberschriften**
-
-   - Leerzeichen und Sonderzeichen können eine (automatische) Verarbeitung der Daten erschweren.
-
-{{5-13}}
-5. **Vermeidung unnötiger Leerzeilen und Spalten**
-
-   - Unnötige Leerzeilen und Spalten können eine (automatische) Verarbeitung der Daten erschweren.
-   
-{{6-13}}
-6. **Hierarchie und Struktur durch Gruppierung**
-
-   - Kategorisierung: Wo möglich, gruppieren Sie ähnliche Daten in benachbarten Spalten. Beispielsweise können Adressdaten in benachbarten Spalten wie „Straße“, „PLZ“, „Ort“ abgelegt werden.
-
-   - Tabellenblätter: Verwenden Sie mehrere Blätter für unterschiedliche Datengruppen (z. B. ein Blatt für Studierende, ein anderes für Dozentendaten), um die Tabelle nicht unnötig zu überladen.
-
-{{7-13}}
-7. **Eindeutige Identifikatoren verwenden**
-
-   - Die Verwendung von eindeutigen Identifikatoren Sie für jede Zeile kann helfen Duplikate zu vermeiden und Nachverfolgbarkeit zu gewährleisten.
-
-{{8-13}}
-8. **Datenvalidierung und Fehlervermeidung**
-
-   - Validierungsregeln: Richten Sie Datenvalidierungen ein, um Eingabefehler zu minimieren (z. B. Eingabe von Text in ein Feld für Zahlen).
-
-   - Eingabemasken verwenden: In Software wie Excel können Eingabemasken helfen, die Konsistenz zu wahren.
-
-{{9-13}}
-9. **Formatierung und Farbgestaltung**
-
-   - Verwenden Sie Farben sparsam, um wichtige Daten hervorzuheben, jedoch niemals, um zusätzliche Informationen abzulegen.
-
-   - Bedingte Formatierung: Nutzen Sie bedingte Formatierungen, um bestimmte Werte (z. B. abgelaufene Fristen) visuell hervorzuheben.
-
-{{10-13}}
-10. **Dokumentation**
-
-   - Erstellung von Dokumentationen: Führen Sie eine Übersicht über die Struktur und Bedeutung der Beschriftugen von Tabellenblättern und Spalten, inkl. Erläuterung genutzter Abkürzungen, die als Referenz für alle Benutzer dient.
-
-   - Information/Schulung von Mitarbeitenden: Sensibilisieren Sie alle Mitwirkenden für die gewählte Vorgehensweise bei der Dateneingabe und -organisation.
-
-{{11-13}}
-11. **Regelmäßige Sicherung und Back up**
-
-   - Datensicherung: Stellen Sie sicher, dass alle Daten regelmäßig gesichert werden, um Verlust zu vermeiden.
-
-{{12-13}}
-************
-
-12. **Datenschutz und Sicherheitsvorkehrungen**
-
-   - Zugangskontrollen: Stellen Sie sicher, dass nur autorisierte Personen Zugriff auf sensible Daten haben.
-
-********
-
-<div style="page-break-after: always;"></div>
 
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
@@ -872,6 +662,30 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 - Einrichtung und Betrieb eines institutionelles Datenrepositoriums
 
 Kontakte und Informationen zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/
+
+<div style="page-break-after: always;"></div>
+
+## Policies der CAU zu Forschungsdaten
+
+{{0-1}}
+****************
+>Relevante Leitlinien oder Policies sollten bekannt sein und in jedem DMP genannt werden.
+>
+>**Sind relevante Leitlinien der CAU bekannt?**
+
+****************
+
+{{1}}
+****************
+**Relevante Leitlinien der CAU:**
+
+- [Leitlinie zum Umgang mit Forschungsdaten](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinie-zum-umgang-mit-forschungsdaten)
+
+- [Leitlinien zur Förderung von Open Access](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinien-zur-forderung-von-open-access)
+
+- [Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/Richtlinien-Sicherung-guter-wissenschaftlicher-Praxis.pdf)
+
+****************
 
 <div style="page-break-after: always;"></div>
 
@@ -937,38 +751,38 @@ https://www.ub.uni-kiel.de/de/kurse
 
 <iframe src="https://www.fis.uni-kiel.de/de" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-# Fragen und Anmerkungen
+
+# Feedback
+
+{{0-1}}
+********************************************************************************
 
 >Fast geschafft!
 >
 >Haben Sie noch Fragen oder Anmerkungen?
 
-{{1}}
 ********************************************************************************
 
->Welche Workshopinhalte würden Sie sich für diese Veranstaltung oder für weitere separate Veranstaltungen zukünftig wünschen?
->
->Welche Workshopformate (online/präsenz) wünschen Sie sich?
-
+{{1-2}}
 ********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-# Feedback
 
 >![Bild](../Datenmanagement/images/FragezeichenTyp.jpg) <!-- width="100px" align="right" -->
 >
 >Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Datenmanagement teilgenommen haben und fragen: "Na, wie war's"?
 >
 >Was antworten Sie?
+>
 
-<div style="page-break-after: always;"></div>
+********************************************************************************
 
-# Herzlichen Dank!
+{{2}}
+********************************************************************************
 Das Team FDM der CAU finden Sie hier: https://www.fdm.uni-kiel.de/de
 
 ![Bild](../Datenmanagement/images/heart-sparkling-emoji.png)
 
+
+********************************************************************************
 <div style="page-break-after: always;"></div>
 
 # Informationen zu diesem Dokument
