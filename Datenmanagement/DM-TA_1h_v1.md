@@ -80,7 +80,7 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >- Ankommen: Workshop Regeln, Warm-up
 >- Einstieg: Mit welchen Daten arbeiten Sie?
 >- Datenmanagement? Was ist das und was soll das?
->- Forschungsdaten und Forschungsförderer
+>- Was sind Forschungsdaten?
 >- Daten ordnen und strukturieren
 >- Services und Policies an der CAU (zu Forschungsdaten)
 >- Diskussion und Ausklang
