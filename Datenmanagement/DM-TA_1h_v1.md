@@ -220,7 +220,9 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # FAIR-Prinzipien
 
+<big>
 >Ziel eines guten Forschungsdatenmanagements ist es, Forschungsdaten so zu organisieren und zu dokumentieren, dass sie möglichst langfristig auffindbar, zugänglich, interoperabel und nachnutzbar bleiben – unabhängig davon, wer ursprünglich mit ihnen gearbeitet hat.
+</big>
 
 {{0-1}}
 ********************************************************************************
@@ -593,7 +595,6 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 ```markdown
 # ALLGEMEINES
-# Allgemeines
 Projekt/Arbeitsbereich: [Bezeichnung]
 Erstellt am: [Datum]
 Verantwortlich: [Name]
@@ -707,7 +708,7 @@ Beispiel:
   <img src="../Datenmanagement/images/rdmCAU.png" alt="rdm@CAU">
 </div>
 
-Forschungsdatenmanagement ist keine Aufgabe, die man alleine macht!
+**Forschungsdatenmanagement ist keine Aufgabe, die man alleine macht!**
 
 Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden des Rechenzentrums und der Universitätsbibliothek.
 
@@ -792,7 +793,6 @@ https://www.ub.uni-kiel.de/de/kurse
 ## FIS 🔦
 
 <iframe src="https://www.fis.uni-kiel.de/de" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
 
 # Feedback
 
