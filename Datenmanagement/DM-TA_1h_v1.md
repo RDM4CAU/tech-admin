@@ -104,8 +104,6 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 
 >**Was genau ist mit dem Begriff Datenmanagement gemeint?**
 >
->**Welche Inhaltsaspekte gehören eigentlich dazu?**
->
 >**Was denken Sie? Welche Inhaltsaspekte gehören zum Datenmanagement?**
 
 <div style="page-break-after: always;"></div>
@@ -168,10 +166,9 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 <div style="page-break-after: always;"></div>
 
+## Beiträge und Grenzen im FDM
 
-### Beiträge und Grenzen
-
->**Typische Beiträge von Servicepersonal (Labor, IT, Bibliothek, Verwaltung, Projektassistenz, Data Stewards) zum Forschungsdatenmanagement**
+>**Typische Beiträge von technisch-administrativem oder Servicepersonal (Labor, IT, Bibliothek, Verwaltung, Projektassistenz, Data Stewards) zum Forschungsdatenmanagement**
 >
 >🟢 Unterstützung bei Datenerzeugung, -erfassung und -ablage
 >
@@ -196,6 +193,29 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 <div style="page-break-after: always;"></div>
 
+## Policies der CAU zu Forschungsdaten
+
+{{0-1}}
+****************
+>Relevante Leitlinien oder Policies sollten bekannt sein und in jedem DMP genannt werden.
+>
+>**Sind relevante Leitlinien der CAU bekannt?**
+
+****************
+
+{{1}}
+****************
+**Relevante Leitlinien der CAU:**
+
+- [Leitlinie zum Umgang mit Forschungsdaten](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinie-zum-umgang-mit-forschungsdaten)
+
+- [Leitlinien zur Förderung von Open Access](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinien-zur-forderung-von-open-access)
+
+- [Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/Richtlinien-Sicherung-guter-wissenschaftlicher-Praxis.pdf)
+
+****************
+
+<div style="page-break-after: always;"></div>
 
 # FAIR-Prinzipien
 
@@ -316,37 +336,127 @@ Ordner und Dateien sollten systematisch benannt und geordnet sein, damit
 
 ## Ordnerstrukturen
 
-Folgende Punkte können bei der Erstellung einer (nachvollziehbaren) Ordnerstruktur helfen:
+<!-- style="width: 15%; float:right" -->
+![](https://github.com/BrittaP/eLBB4RDM/blob/main/images/Ordnung_und_Struktur_1296x1128.png?raw=true)
 
-{{1-9}}
-********************************************************************************
 
-* Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen
+Eine hierarchische Ordnerstruktur entwickeln
+---
 
-  * Mögliche Ordnungskategorien: Projekte, Teilprojekte, Arbeitspakete, Datum oder Zeitraum (z. B. Monate, Quartale), Datentypen (z. B. Text, Abbildungen), Datenanalysen, Literatur, ...
-{{2-9}}
-* Beschreibende Ordnernamen verweisen auf die Inhalte
-{{3-9}}
-* Ordner sind hierarchisch strukturiert
-{{4-9}}
-* Es sind nicht mehr als drei Unterordner angelegt worden
+{{1-2}}
+*************************
+
+<!-- style="font-size: 20px;" -->
+>[!IMPORTANT] Regel Nr. 1: So früh, wie möglich (in einem Projektverlauf) eine logische Struktur mit klaren Hauptkategorien für Dateiordner angelegen!
+
+*************************
+
+{{2-3}}
+*************************
+
+2. Ordner fassen Dateien mit gemeinsamen Eigenschaften zusammen, d. h. Sie müssen
+
+- Attribute definieren, nach denen Dateien kategorisierbar sind, z. B.:
+
+  - Lehrstuhl
+  - Projekt
+  - Finanzen
+  - Zeit (Jahre, Monate)
+  - Ort
+  - Bearbeitungsstatus
+  - ...?
+
+*************************
+
+{{3-4}}
+*************************
+
+<!-- style="width: 80%; float:left" -->
+``` ascii
+01_Lehrstuhl-A
+     |
+     ├── 01_Administration (z. B. Verträge, Personal, Finanzen)
+     │   
+     ├── 02_Projekte (z. B. Projekt A, Projekt B)
+     │   
+     ├── 03_Lehre (z. B. Veranstaltungen, TN-Verwaltung)
+     │
+     ├── ...     
+     │    
+     ├── 99_Zwischenablage
+     │   
+     └── README.md (erklärt die Ordnerstruktur und die Bennennungsregeln für Dateien.)
+```
+
+*************************
+
+{{4-5}}
+*************************
+
+3. Unterordner nach Bedarf angelegen. Dabei beachten:
+
+- Nicht zu viele Unterordner anlegen. Pfade werden lang!
+
+   -> DIN 5008 empfiehlt für die Ordnerstruktur eine Ablagesystematik mit maximal vier Ebenen und höchstens zehn Ordnern pro Ebene
+
+- Überlegen Sie, welche Attribute Ihnen für die Sortierung am wichtigsten erscheinen. Entwickeln Sie Ihre Hierarchie entsprechend.
+
+<br>
+
+<!-- style="width: 45%; float:left" -->
+``` ascii
+
+Sortierung erst nach Jahren, dann nach Orten
+
+Projekt XYZ
+     :
+     │   
+     ├── Veranstaltungen
+     │   └──── 2023
+     │   └──── 2024
+     │   └──── 2025
+     │           └──── Flensburg
+     │           └──── KIel     
+     :
+     └── README.md
+```
+
+
+<!-- style="width: 45%; float:right" -->
+``` ascii
+Sortierung erst nach Orten, dann nach Jahren
+
+Projekt XYZ
+     :
+     │   
+     ├── Veranstaltungen
+     │   └──── Flensburg
+     │   └──── Kiel
+     │           └──── 2023
+     │           └──── 2024  
+     :
+     └── README.md
+```
+*************************
+
 {{5-9}}
-* Laufende und abgeschlossene Arbeiten werden getrennt
+4. Laufende und abgeschlossene Arbeiten werden getrennt
 {{6-9}}
-* Rohdaten werden gesondert abgelegt
+5. Wenn es um Forschungsdaten geht: Rohdaten werden gesondert abgelegt!
 {{7-9}}
-* Es gibt eine Zwischenablage, die regelmäßig aufgeräumt wird -->
+6. Es gibt eine Zwischenablage, die regelmäßig aufgeräumt wird -->
 {{8-9}}
-* Nicht mehr benötigte Dateien werden regelmäßig gelöscht
+7. Nicht mehr benötigte Dateien werden regelmäßig gelöscht (Intervalle festlegen!)
 
-********************************************************************************
 
 {{9-10}}
 ********************************************************************************
 
+---
+
 Es gilt außerdem:
 
-* Prüfen, ob bereits etablierte Strukturen existieren!
+* Immer zunächst prüfen, ob bereits etablierte Strukturen existieren!
 * Ausprobieren und anpassen!
 * Dokumentieren und Dokumentation bei Änderungen anpassen!
 * Für gemeinsam genutzte Dateien gemeinsame Regeln festlegen!
@@ -363,21 +473,23 @@ Die Art und Weise der Benennung von Dateien ist ein wichtiger Baustein im Datenm
 Folgende Punkte können bei der Erstellung (nachvollziehbarer) Dateinamen helfen:
 
 {{1-9}}
-* Weniger als 32 Zeichen (besser noch weniger) für Dateinamen benutzen
+* Möglichst weniger als 32 Zeichen für Dateinamen benutzen.
 {{2-9}}
-* Grundsätzlich keine unspezifischen Dateinamen (z. B.untitled3746.csv) verwenden
+* Grundsätzlich keine unspezifischen Dateinamen (z. B.untitled3746.csv) verwenden.
 {{3-9}}
-* Dateinamen in Namensbestandteilen festlegen, Art der Trennung und Reihenfolge der Namensbestandteile beibehalten (z.B date\_site\_probe0000\_approach.extension)
+* Dateinamen in Namensbestandteilen festlegen, Art der Trennung und Reihenfolge der Namensbestandteile konsequent beibehalten (z.B Datum\_Veranstaltungstitel\_Teilnehmende.extension)
 {{4-9}}
-* Grundsätzlich keine Sonderzeichen, Umlaute oder Leerzeichen in Dateinamen benutzen
+* Grundsätzlich keine Sonderzeichen, Umlaute oder Leerzeichen in Dateinamen benutzen.
 {{5-9}}
-* Einzig erlaubte Sonderzeichen sind Unterstrich ( _ ) und Bindestrich ( - )
+* Einzig erlaubte Sonderzeichen sind Unterstrich ( _ ) und Bindestrich ( - ).
 {{6-9}}
-* Führende Null(en) bei Nummerierungen verwenden
+* Führende Null(en) bei Nummerierungen verwenden.
 {{7-9}}
-* Datumsangaben nach der ISO 8601 (YYYYMMDD oder YYYY-MM-DD oder YYYY\_MM\_DD)
+* Datumsangaben nach der ISO 8601 (YYYYMMDD oder YYYY-MM-DD oder YYYY\_MM\_DD).
 {{8-9}}
 * Keine unspezifischen Namensanhänge, wie \_final, \_neu, \_fertig o. ä. verwenden!
+
+---
 
 {{9-10}}
 ********************************************************************************
@@ -437,7 +549,7 @@ Verschiedene Tools unterstützen das stapelweise Umbenennen von beliebig vielen 
 
 >* Um verschiedene Stadien der Bearbeitung von Dateien nachvollziehen und unterscheiden zu können, sollte eine konsequente Versionierung vorgenommen werden.
 >
->* Das Vorgehen bei der Versionierung sollte bekannt sein.
+>* Das Vorgehen bei der Versionierung sollte allen Beteiligten bekannt sein.
 >
 >* Versionierungen können im Dateinamen vorgenommen werden und die Vorgehensweise gemeinsam mit der Dokumentation zu Ordnerstruktur und Dateibenennung in der README-Datei dokumentiert werden.
 >
@@ -452,11 +564,12 @@ Verschiedene Tools unterstützen das stapelweise Umbenennen von beliebig vielen 
 
 Die Versionierung kann als Bestandteil des Dateinamens definiert werden und dabei zwischen größeren und kleineren Änderungen unterscheiden:
 
-* Beispiel für größere Änderungen = Beispieldatei\_v1 -> Beispieldatei_v2
-* Beispiel für kleinere Änderungen = Beispieldatei\_v1-1 -> Beispieldatei\_v1-2
-* Beispiel für Major.Minor.Sub-Minor = Beispieldatei\_v0-1-0 -> Beispieldatei\_v0-1-1
+* größere Änderungen = Beispieldatei\_v1 -> Beispieldatei_v2
+* kleinere Änderungen = Beispieldatei\_v1-1 -> Beispieldatei\_v1-2
 
-><p style="color:#9a047f">**Unspezifische Bezeichnungen möglichst vermeiden!**</p>
+=> Beschreiben Sie in einer README, was als größere bzw. kleinere Änderung gilt.
+
+><p style="color:#9a047f">**Unspezifische Bezeichnungen vermeiden!**</p>
 >
 >* ~original1~
 >* ~neu~
@@ -485,22 +598,9 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 <div style="page-break-after: always;"></div>
 
-### Softwaregestützte Versionierung
-
-Es gibt eine Reihe von nützlichen Tools, die ggf. helfen, insbesondere textbasierte Daten und Forschungsdatencode zu verfolgen und zu versionieren.
-
-Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und umfassen unter anderem:
-
-* GitHub: https://github.com
-* GitLab: https://about.gitlab.com
-
->Die CAU bietet einen GitLab Dienst: https://cau-git.rz.uni-kiel.de/users/sign_in 
-
-<div style="page-break-after: always;"></div>
-
 ## README-Dateien
 
->**README-Dateien sind wichtige Dokumentationsinstrumente.**
+>**README-Dateien sind wichtige Dokumentationsinstrumente!**
 >
 >Eine gute README
 >
@@ -508,7 +608,7 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 >- erleichtert Übergaben  
 >- schafft Transparenz über Strukturen und Zuständigkeiten
 >
->Regeln für das Anlegen von Ordnern und Namenskonventionen können in einer **README-Datei** dokumentiert werden, die als einfache Textdatei (z. B.: .md, .txt) auf der ersten hierarchischen Ebene der jeweiligen Ordnerstruktur abgelegt werden sollte.
+>Regeln für das Anlegen von Ordnern, Namenskonventionen und Versionierungen sollten in einer **README-Datei** dokumentiert werden, die als einfache Textdatei (z. B.: .md, .txt) auf der ersten hierarchischen Ebene der jeweiligen Ordnerstruktur abgelegt wird.
 
 ## Beispiel README
 
@@ -518,7 +618,7 @@ Die am weitesten verbreiteten basieren auf dem Versionsverwaltungssystem Git und
 
 ```markdown
 # ALLGEMEINES
-Projekt/Arbeitsbereich: [Bezeichnung des Projekts/Arbeitsbereiches]
+Lehrstuhl/Projekt/Arbeitsbereich: [Bezeichnung des Projekts/Arbeitsbereiches]
 Datum: [Datum der Erstellung]
 Beschreibung: [Kurze Beschreibung des Projekts/Arbeitsbereiches]
 Veranstwortliche: [Namen der Verantwortlichen]
@@ -665,30 +765,6 @@ Kontakte und Informationen zum FDM an der CAU finden Sie hier: https://www.fdm.u
 
 <div style="page-break-after: always;"></div>
 
-## Policies der CAU zu Forschungsdaten
-
-{{0-1}}
-****************
->Relevante Leitlinien oder Policies sollten bekannt sein und in jedem DMP genannt werden.
->
->**Sind relevante Leitlinien der CAU bekannt?**
-
-****************
-
-{{1}}
-****************
-**Relevante Leitlinien der CAU:**
-
-- [Leitlinie zum Umgang mit Forschungsdaten](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinie-zum-umgang-mit-forschungsdaten)
-
-- [Leitlinien zur Förderung von Open Access](https://www.datamanagement.uni-kiel.de/de/forschungsdatenmanagement-an-der-cau/leitlinien-zur-forderung-von-open-access)
-
-- [Richtlinien der CAU zur Sicherung guter wissenschaftlicher Praxis](https://www.uni-kiel.de/fileadmin/user_upload/forschung/integritaet-ethik/downloads/Richtlinien-Sicherung-guter-wissenschaftlicher-Praxis.pdf)
-
-****************
-
-<div style="page-break-after: always;"></div>
-
 ## Datenschutz🦺
 
 <iframe src="https://www.uni-kiel.de/gf-praesidium/de/recht/datenschutz-1" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
@@ -771,7 +847,6 @@ https://www.ub.uni-kiel.de/de/kurse
 >Sie haben heute Abend noch eine Verabredung mit einigen Freunden. Ihre Freunde erinnern sich daran, dass Sie heute an einem Workshop zum Thema Datenmanagement teilgenommen haben und fragen: "Na, wie war's"?
 >
 >Was antworten Sie?
->
 
 ********************************************************************************
 
