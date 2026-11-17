@@ -10,7 +10,7 @@ icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 licence: cc-by
 
-title:  Einfürhung  in das Datenmanagement für technisch-administratives Personal.
+title:  Einfürhung  in das Forschungsdatenmanagement für technisch-administratives Personal.
 
 link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
 
@@ -30,13 +30,13 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 
 -->
 
-# Datenmanagement
+# Forschungsdatenmanagement
 
 > <font size="7"><div style="float: right">🗂️->💾</div></font>
 >
 > <font size="7">**Herzlich Willkommen!**</font>
 >
-> <font size="6">**Einführung  in das Datenmanagement für technisch-administratives Personal**</font><br><br>
+> <font size="6">**Einführung  in das Forschungsdatenmanagement für technisch-administratives Personal**</font><br><br>
 > ***Britta Petersen & Linda Zollitsch***, [Zentrales Forschungsdatenmanagement](https://www.datamanagement.uni-kiel.de/de)
 
 <div style="page-break-after: always;"></div>
