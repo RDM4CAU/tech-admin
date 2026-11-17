@@ -10,7 +10,7 @@ icon:     images/Logo_cau-norm-de-lilagrey-rgb-0720_2022.png
 
 licence: cc-by
 
-title:  Einführung in das Datenmanagement für technisch-administratives Personal.
+title:  Einfürhung  in das Datenmanagement für technisch-administratives Personal.
 
 link: https://raw.githubusercontent.com/RDM4CAU/Intro-to-RDM/refs/heads/main/cau-style.css
 
@@ -36,7 +36,7 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >
 > <font size="7">**Herzlich Willkommen!**</font>
 >
-> <font size="6">**Einführung in das Datenmanagement für technisch-administratives Personal**</font><br><br>
+> <font size="6">**Einführung  in das Datenmanagement für technisch-administratives Personal**</font><br><br>
 > ***Britta Petersen & Linda Zollitsch***, [Zentrales Forschungsdatenmanagement](https://www.datamanagement.uni-kiel.de/de)
 
 <div style="page-break-after: always;"></div>
@@ -53,7 +53,6 @@ comment:  Einführungsworkshop zum Datenmanagement für technisch-administrative
 >* ... einige relevante Strukturen und Services der CAU nennen können.
 >* ... mit anderen und uns über ihre Vorgehensweisen im Umgang mit Daten und über Ihre Unterstützungsbedarfe diskutiert haben.
 >* ... auch ein bisschen Spaß hatten.
-
 
 ## Limitationen🚧
 
@@ -158,9 +157,9 @@ Die **DFG** definiert den Begriff **"Forschungsdaten"** folgendermaßen:
 
 Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge University den Begriff **Forschungsdaten** als:
 
-> “Any any information you use in your research.”
+> “Any information you use in your research.”
 >
-> (*University of Camebridge PrePARe Project*)
+> (*University of Cambridge PrePARe Project*)
 
 ********************************************************************************
 
@@ -168,7 +167,10 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 ## Beiträge und Grenzen im FDM
 
->**Typische Beiträge von technisch-administrativem oder Servicepersonal (Labor, IT, Bibliothek, Verwaltung, Projektassistenz, Data Stewards) zum Forschungsdatenmanagement**
+>[!IMPORTANT] Wo sehen Sie Ihre Beiträge und Ihre Grenzen im Management von Forschungsdaten?
+
+{{1}}
+>**Typische Beiträge von technisch-administrativem oder Servicepersonal (z. B. Mitarbeitende im Bereich Sekretariat, Labor, IT, Bibliothek, Verwaltung, Projektmanagement) zum Forschungsdatenmanagement**
 >
 >🟢 Unterstützung bei Datenerzeugung, -erfassung und -ablage
 >
@@ -176,7 +178,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 >
 >🟢 Sicherstellung von Dokumentationen und Übergaben  
 >
->🟢 Hinweise auf Policies, Fördereranforderungem, Templates, FAIR-Prinzipien, Metadaten, Repositorien  
+>🟢 Hinweise auf Services, Policies, Fördereranforderungen, Templates, FAIR-Prinzipien, Metadaten, Repositorien  
 >
 >🟢 Sensibilisierung für gute Praxis und Qualitätsstandards
 >
@@ -186,10 +188,9 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 >
 >🔴 Entscheidungen über Forschungsdesign, Methodik oder Publikationen  
 >
->🔴 Rechtliche Verantwortung für Datennutzung oder Ergebnisse
+>🔴 Alleinige rechtliche Verantwortung für Datennutzung oder Ergebnisse
 >
-
->**Ihr Beitrag schafft verlässliche Rahmenbedingungen – die wissenschaftliche Verantwortung bleibt bei den Forschenden.**
+>>**Ihr Beitrag schafft verlässliche Rahmenbedingungen – die wissenschaftliche Verantwortung bleibt bei den Forschenden.**
 
 <div style="page-break-after: always;"></div>
 
@@ -219,7 +220,7 @@ Etwas weniger kompliziert definierte das PrePARe Projekt der Camebridge Universi
 
 # FAIR-Prinzipien
 
->Das **Ziel** im Umgang mit (Forschungs)Daten ist es, Daten **langfristig** und **personenunabhängig** ~~zugänglich~~, ~~nachnutzbar~~ und ~~nachprüfbar~~ zu halten.
+>Ziel eines guten Forschungsdatenmanagements ist es, Forschungsdaten so zu organisieren und zu dokumentieren, dass sie möglichst langfristig auffindbar, zugänglich, interoperabel und nachnutzbar bleiben – unabhängig davon, wer ursprünglich mit ihnen gearbeitet hat.
 
 {{0-1}}
 ********************************************************************************
@@ -385,7 +386,7 @@ Eine hierarchische Ordnerstruktur entwickeln
      │    
      ├── 99_Zwischenablage
      │   
-     └── README.md (erklärt die Ordnerstruktur und die Bennennungsregeln für Dateien.)
+     └── README.md (erklärt die Ordnerstruktur und die Benennungsregeln für Dateien.)
 ```
 
 *************************
@@ -397,7 +398,7 @@ Eine hierarchische Ordnerstruktur entwickeln
 
 - Nicht zu viele Unterordner anlegen. Pfade werden lang!
 
-   -> DIN 5008 empfiehlt für die Ordnerstruktur eine Ablagesystematik mit maximal vier Ebenen und höchstens zehn Ordnern pro Ebene
+   -> Daumenregel für die Ordnerstruktur eine Ablagesystematik mit maximal vier Ebenen und höchstens zehn Ordnern pro Ebene
 
 - Überlegen Sie, welche Attribute Ihnen für die Sortierung am wichtigsten erscheinen. Entwickeln Sie Ihre Hierarchie entsprechend.
 
@@ -473,13 +474,13 @@ Die Art und Weise der Benennung von Dateien ist ein wichtiger Baustein im Datenm
 Folgende Punkte können bei der Erstellung (nachvollziehbarer) Dateinamen helfen:
 
 {{1-9}}
-* Möglichst weniger als 32 Zeichen für Dateinamen benutzen.
+* Möglichst nicht mehr als 32 Zeichen für Dateinamen benutzen.
 {{2-9}}
 * Grundsätzlich keine unspezifischen Dateinamen (z. B.untitled3746.csv) verwenden.
 {{3-9}}
 * Dateinamen in Namensbestandteilen festlegen, Art der Trennung und Reihenfolge der Namensbestandteile konsequent beibehalten (z.B Datum\_Veranstaltungstitel\_Teilnehmende.extension)
 {{4-9}}
-* Grundsätzlich keine Sonderzeichen, Umlaute oder Leerzeichen in Dateinamen benutzen.
+* Möglichst keine Sonderzeichen, Umlaute oder Leerzeichen in Dateinamen benutzen.
 {{5-9}}
 * Einzig erlaubte Sonderzeichen sind Unterstrich ( _ ) und Bindestrich ( - ).
 {{6-9}}
@@ -498,7 +499,7 @@ Folgende Punkte können bei der Erstellung (nachvollziehbarer) Dateinamen helfen
 
 * Prüfen, ob bereits etablierte Dateibenennungskonventionen existieren.
 * Eigene Benennungsregeln in Form einer Dateibenennungskonvention festlegen und dokumentieren.
-* Dokumentation der Ordnerstrukturen und Benennungskonventionen inkl. genutzer Abkürzungen u. ä. in einer README-Datei
+* Dokumentation der Ordnerstrukturen und Benennungskonventionen inkl. genutzter Abkürzungen u. ä. in einer README-Datei
 * Konventionen möglichst frühzeitig festlegen
 * Unterschiedliche Konventionen für verschiedene Dateitypen sind erlaubt.
 * Dokumentieren/Dokumentation bei Änderungen anpassen
@@ -513,32 +514,6 @@ Beispiele für Benennungskonventionen:
 ![Bild](../Datenmanagement/images/Abb_Beispiele-Benennungskonvention_2022_bp.png)
 
 ********************************************************************************
-
-<div style="page-break-after: always;"></div>
-
-### Softwaregestützte Dateibenennung
-Verschiedene Tools unterstützen das stapelweise Umbenennen von beliebig vielen Dateien und Ordnern in einem Durchgang:
-
-**Windows:**
-
-- Ant Renamer (https://www.antp.be/software/renamer)
-- Bulk Rename Utility (https://www.bulkrenameutility.co.uk/)
-- Total Commander (https://www.ghisler.com/deutsch.htm)
-
-**Mac:**
-
-- Renamer 6 (for Mac) (https://renamer.com/)
-- Name Changer (https://mrrsoftware.com/namechanger/)
-- ExifRenamer (https://www.qdev.de/?location=mac/exifrenamer)
-
-**Linux:**
-
-- GNOME Commander (https://gcmd.github.io/)
-- GPRename (http://gprename.sourceforge.net/)
-
-**Unix:**
-
-- rename command
 
 <div style="page-break-after: always;"></div>
 
@@ -562,12 +537,12 @@ Verschiedene Tools unterstützen das stapelweise Umbenennen von beliebig vielen 
 
 **Versionierung im Dateinamen:**
 
-Die Versionierung kann als Bestandteil des Dateinamens definiert werden und dabei zwischen größeren und kleineren Änderungen unterscheiden:
+Die Versionierung kann Bestandteil des Dateinamens sein.  Dabei kann zwischen größeren und kleineren Änderungen unterschieden werden:
 
 * größere Änderungen = Beispieldatei\_v1 -> Beispieldatei_v2
 * kleinere Änderungen = Beispieldatei\_v1-1 -> Beispieldatei\_v1-2
 
-=> Beschreiben Sie in einer README, was als größere bzw. kleinere Änderung gilt.
+=> Beschreiben Sie in einer README, was für Sie als größere bzw. kleinere Änderung gilt.
 
 ><p style="color:#9a047f">**Unspezifische Bezeichnungen vermeiden!**</p>
 >
@@ -587,7 +562,7 @@ Die Versionierung kann als Bestandteil des Dateinamens definiert werden und dabe
 
 | Versionsnr.  | Änderungen                       | Datum      | Bearbeitung durch |
 | :----------  | :----------                      | ---        | ---               |
-| 1-0          | Freigabe                         | 2023-11-2  | KL                |
+| 1-0          | Freigabe                         | 2023-11-02  | KL                |
 | 1-1          | Verbesserung Rechtschreibfehler  | 2023-11-20 | KL                |
 | 1-2          | Änderungen am Layout             | 2024-02-20 | GN                |
 | 2-0          | Neues Kapitel (3.1) hinzugefügt | 2024-02-26 | GN                |
@@ -610,7 +585,7 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 >
 >Regeln für das Anlegen von Ordnern, Namenskonventionen und Versionierungen sollten in einer **README-Datei** dokumentiert werden, die als einfache Textdatei (z. B.: .md, .txt) auf der ersten hierarchischen Ebene der jeweiligen Ordnerstruktur abgelegt wird.
 
-## Beispiel README
+### Beispiel README
 
 >Eine solche README-Datei könnte z.B. so aussehen:
 
@@ -618,104 +593,75 @@ Eine Versionskontrolltabelle kann innerhalb des bearbeiteten Dokuments oder als 
 
 ```markdown
 # ALLGEMEINES
-Lehrstuhl/Projekt/Arbeitsbereich: [Bezeichnung des Projekts/Arbeitsbereiches]
-Datum: [Datum der Erstellung]
-Beschreibung: [Kurze Beschreibung des Projekts/Arbeitsbereiches]
-Veranstwortliche: [Namen der Verantwortlichen]
-Beteiligte: [Namen der Beteiligten]
+# Allgemeines
+Projekt/Arbeitsbereich: [Bezeichnung]
+Erstellt am: [Datum]
+Verantwortlich: [Name]
+Beteiligte: [Namen]
 
-Relevante zugehörige Links:
-Link zu Univis: [Link]
-Link zu OpenOlat: [Link]
-Link zu CAUGitLab: [Link]
-Link zum FIS: [Link]
+Beschreibung:
+[Kurze Beschreibung des Projekts, Arbeitsbereichs oder der Daten]
 
-# ORDNER
-Alle Dateien, die sich auf das Projekt XY beziehen, werden im Ordner 
-***[AnyProject]*** gespeichert.
+Relevante Links:
+- Univis:
+- OpenOlat:
+- CAUGitLab:
+- FIS:
 
-Der Inhalt ist wie folgt in Unterordnern organisiert:
+# Ordnerstruktur
+Dateien werden in einer klaren, hierarchischen Struktur abgelegt.
 
-- **Management**: weitere Unterordner: Projektplanung, Finanzmonitoring, Berichte 
-- **Meetings**: Präsentationen und Materialien der Projektmeetings, 
-Unterordner ggf. nach Datum und Ort geordnet
-- **Kommunikation**: Newsletter, Blogbeiträge, etc. 
-Unterordner ggf. nach Datum geordnet
-- **Rohdaten**: Alle Rohdaten werden in diesem Ordner abgelegt, 
-weitere Unterordner sind ggf. nach Datum geordnet
-- **AnalyseDaten**: Zu analysierende Datendateien, 
-Unterordner ggf. nach Datum geordnet
-- **Abbildungen**: Aus Analysedateien erstellte Abbildungen, 
-Unterordner ggf. nach Datum geordnet
-- **Referenzen**: Bibliothek mit Referenzen
-- **AnalogeDokumentation**: Eingescannte Kopien schriftlicher Notizen/Belege
-- **Verschiedenes**: Sonstige Informationen, die sich auf dieses Projekt beziehen
+Beispiel:
+- 01_Projektname
+  - 01_Administration
+  - 02_Projekte
+  - 03_Lehre
+  - 99_Zwischenablage
+  - README.md
 
-# DATEIBENENNUNG
-## Management
-Die Projektplanungsdokumente werden wie folgt benannt:
+- Rohdaten werden getrennt von verarbeiteten Daten gespeichert.
+- Laufende und abgeschlossene Arbeiten werden getrennt aufbewahrt.
 
-Projektkürzel_Planungsteil_Version.Dateiendung
-(Beispiel: “AP001_Antrag_V1.docx”, AP001_Zeitplan_V1.docx)
+# Dateibenennung
+Dateinamen sollen nachvollziehbar, kurz und konsistent sein.
 
-Im Ordner Finanzmonitoring werden Dateien wie folgt benannt:
+Regeln:
+- Keine Leerzeichen, Umlaute oder Sonderzeichen
+- Nur Unterstrich (_) und Bindestrich (-)
+- Datumsformat: YYYYMMDD oder YYYY-MM-DD
+- Keine generischen Namen wie final, neu, bearbeitet, original
+- Einfache, sprechende Namen 
+- Abkürzungen dokumentieren!
 
-Projektkürzel_Kostenstelle_Jahr_Monat.Dateiendung
-(Beispiel: “AP001_Personal_2023_Januar.docx”)
+Beispiele:
+- 20250122_ProjektA_Meeting_v1.pdf
+- 20250122_ProjektA_Rohdaten.csv
+- 20250122_ProjektA_Analyse_v2.xlsx
 
-## Meetings
-Die Dokumente zu den Meetings werden wie folgt benannt:
+# Versionierung
+Versionierung erfolgt im Dateinamen.
 
-Datum_Ort_Beitrag_Version.Dateiendung
-Beispiel: 2024-01-22_Köln_Poster_V1-2.pdf
+Beispiele:
+- v1, v2
+- v1-1, v1-2
 
-## Rohdaten
-Die Rohdaten-Dateien werden wie folgt benannt:
+Wichtig:
+- Großere Änderungen: hier beschreiben, was eine neue Version (z. B. v2) rechtfertigt
+- Kleinere Änderungen: hier beschreiben, was eine kleine Änderung ist und Verionssprung auf (z. B. v1-1) rechtfertigt
+- Änderungen dokumentieren und bei Bedarf in einer Versionskonrolltabelle festhalten
 
-raw_YYYYMMDD_Gebiet_Object_Zustand.Dateiendung
-(Beispiel: “raw_20230701_Bov_KS_2.csv”)
+# Speicherung & Backup
+Speicherorte, Zugriffsrechte und Backups erfolgen nach den geltenden Vorgaben der CAU und den Anforderungen des Projekts.
 
-## Analysedaten
-Die Dateien der Analysedaten werden wie folgt benannt:
+Beispiel:
+- Speicherung auf [lokalem Server/Share/Cloud]
+- Backup: [täglich/wöchentlich]
+- Aufbewahrung: [Zeitraum/Ort]
 
-„JJJJMMTT_Gebiet_Objekt_Kondition_Version“
-(Beispiel: “20230701_Bov_KS_2_v1-0.csv”)
-
-## Abkürzungen
-Für Dateinamen werden folgende **Abkürzungen** verwendet:
-
-*Projektkürzel*: AP001=AnyProject001
-*Gebiet*: KI=Kiel, Bov=Bovenau, Emk=Emkendorf
-*Objekte*: KS=Klingenschaber, S=Schraube
-*Zustand*: 1=vollständig erhalten, 2=teilweise erhalten, 
-3=schlecht erhalten/fragmentiert
-
-# VERSIONEN
-Versionsinformationen werden in Form einer Major-Minor-Angabe  
-im Dateinamen angegeben(_vmajor-minor).
-
-**große Änderungen**: Umfangreiche Korrekturen, Anpassungen oder Ergänzungen 
-an einem Datensatz oder einer Textdatei, wie z.B. 
-- eine große Anzahl zusätzlicher Einträge in einer Tabelle  
-- umfangreiche Bereinigung von Daten 
-- Hinzufügung eines Kapitels zu einem Text oder einer Präsentation. 
-
-In diesem Fall erhöht sich die Versionsnummer in Schritten von eins 
-(„Major“-Nummer + 1), z. B. von Version 2-0 auf Version 3-0. 
-Wird die „Major“-Versionsnummer geändert, muss die „Minor"-Versionsnummer 
-wieder von ‚0‘ an aufwärts nummeriert werden (z.B. bei Versionsänderung von 2-4 auf 3-0).
-
-**kleinere Änderungen**: Die Versionsnummer an zweiter Stelle („minor“) 
-erhöht sich um +1, wenn kleinere Korrekturen vorgenommen wurden, z. B. die Korrektur von Rechtschreib- und Tippfehlern in Texten oder Tabellen.
-
-# SPEICHERUNG & BACKUP
-Alle Dateien werden lokal auf der Festplatte des Computers XYZ gespeichert. 
-Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöchentlich,...].
-
-# Letzte Änderungen dieser README
-| Datum      | Änderung    | Bearbeitet durch |
-| :--------- | :---------  | :---------       |
-| Datum 1    | Dings 1     | XYZ              |
+# Letzte Änderungen
+| Datum | Änderung | Verantwortlich |
+|------|---------|----------------|
+| [Datum] | [Änderung] | [Name] |
 
 ```
 </div>
@@ -737,11 +683,31 @@ Ein Backup in in die CAU Cloud und eine extere Festplatte erfolgt [täglich,wöc
 
 <div style="page-break-after: always;"></div>
 
+# Wrap Up
+
+>**Forschungsdatenmanagement im Blick: Was sollte ich beachten?**
+>
+>>**Dateien und Ablagestrukturen**
+>>- Gibt es nachvollziehbare Ablagestrukturen?
+>>- Wissen alle Beteiligten, wo Daten zu finden sind?
+>
+>>**Dokumentation und Übergaben**
+>>- Können Kolleg:innen Dateien und Daten auch ohne zusätzliche Erklärungen verstehen?
+>>- Sind Zuständigkeiten und Arbeitsabläufe dokumentiert?
+>
+>>**Speicherung und Zugriff**
+>>- Werden geeignete Speicherorte und Backups verwendet?
+>>- Sind Zugriffsrechte und Datenschutz berücksichtigt?
+>
+>>**Unterstützungsbedarf**
+>>- Gibt es Fragen, bei denen an eine zuständige Stelle verwiesen werden sollte?
 
 # FDM@CAU ✨
 <div style="float:right; width:40%;">
   <img src="../Datenmanagement/images/rdmCAU.png" alt="rdm@CAU">
 </div>
+
+Forschungsdatenmanagement ist keine Aufgabe, die man alleine macht!
 
 Das **Zentrale Forschungsdatenmanagement** der CAU besteht aus Mitarbeitenden des Rechenzentrums und der Universitätsbibliothek.
 
@@ -759,7 +725,7 @@ Gemeinsam arbeiten, beraten und unterstützen wir zum Thema.
 
 - Didaktische Beratung & Begleitung der Integration von FDM in die curriculare Lehre
 
-- Einrichtung und Betrieb eines institutionelles Datenrepositoriums
+- Einrichtung und Betrieb eines institutionellen Datenrepositoriums [opendata@uni-kiel](https://opendata.uni-kiel.de/content/index.xml)
 
 Kontakte und Informationen zum FDM an der CAU finden Sie hier: https://www.fdm.uni-kiel.de/
 
